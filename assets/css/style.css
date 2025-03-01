@@ -861,4 +861,8 @@ a:hover {
     color: #003366; /* Bleu foncé */
 }
 
+.about-container {
+    padding-top: 40px; /* Augmente l’espace au-dessus du texte et de l’image */
+}
+
 
