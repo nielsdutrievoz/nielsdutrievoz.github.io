@@ -5,12 +5,10 @@ title: Niels Dutrievoz
 
 [Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
-# Welcome to My Website
-
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/profile.jpg" alt="My Photo" style="width: 150px; border-radius: 50%;">
+  <img src="images/profile.jpg" alt="My Photo" style="width: 250px;">
   <div>
     <h1>About Me</h1>
     <p>Currently pursuing a PhD at the Laboratory of Climate and Environmental Sciences (LSCE) at Université Paris-Saclay, south of Paris, my research focuses on polar atmosphere modeling under the supervision of Cécile Agosta, within Amaelle Landais' team. A particular interest lies in modeling isotopic variability in Antarctica.</p>
