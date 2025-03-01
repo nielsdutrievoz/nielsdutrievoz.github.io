@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: Niels Dutrievoz
 ---
 
 [Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
