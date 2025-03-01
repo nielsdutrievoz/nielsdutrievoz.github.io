@@ -7,6 +7,10 @@
 
 ## Scientific Articles  
 
+- **Dutrievoz, N., Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F.**  
+   *Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes.*  
+   Journal of Geophysical Research: Atmospheres, 2024.  
+   [DOI: 10.1029/2024JD042073](https://doi.org/10.1029/2024JD042073)
 
 - **Landais, A., Agosta, C., Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., Werner, M.**  
    *Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island.*  
