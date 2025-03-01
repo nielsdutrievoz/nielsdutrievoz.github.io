@@ -3,6 +3,16 @@ layout: default
 title: Niels Dutrievoz
 ---
 
+<style>
+.page-header {
+    background-image: url("/images/banner.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+</style>
+
+
 [Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
 
