@@ -845,8 +845,10 @@ a:hover {
 
 .page-header {
     background-image: url("https://nielsdutrievoz.github.io/images/banner.jpeg");
-    background-size: contain; /* Affiche l’image entière sans zoom */
-    background-repeat: no-repeat; /* Évite la répétition */
-    background-position: center; /* Centre l’image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transform: scale(1.1); /* Zoom à 110% */
 }
+
 
