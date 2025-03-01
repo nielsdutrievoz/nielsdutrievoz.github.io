@@ -8,6 +8,8 @@ title: Niels Dutrievoz
 
 <br><br>
 
+# About me
+
 <div style="display: flex; align-items: center; gap: 60px;">
   <img src="images/profile.jpg" alt="My Photo" style="width: 300px;">
   <div>
@@ -16,15 +18,6 @@ title: Niels Dutrievoz
     <p>Science communication is another area I’m really passionate about. I co-created the popular science channel <a href="https://ordres-de-grandeur.com/" target="_blank">Ordres de grandeur</a> (<a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank">Instagram</a>, <a href="https://www.tiktok.com/@ordresdegrandeur/" target="_blank">Tiktok</a>), where we explore orders of magnitude—those staggering differences between the infinitely large and the infinitely small that shape our perception of the world.</p>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 # News
