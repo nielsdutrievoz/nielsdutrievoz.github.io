@@ -1,4 +1,4 @@
 .page-header {
-    background: url("../images/banner.jpeg") center/cover no-repeat;
+    background: url("/images/banner.jpeg") center/cover no-repeat;
     height: 300px; /* Ajuste la hauteur */
 }
