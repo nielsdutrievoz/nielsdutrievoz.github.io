@@ -5,7 +5,16 @@
 
 # Publications
 
-## Scientific Articles  
+📄 **Find my research on:**  
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Niels-Dutrievoz)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GvFHtIwAAAAJ&hl=en&oi=ao)  
+[![ORCID](https://img.shields.io/badge/ORCID-24C68B?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8133-5616)  
+
+---
+
+## **Scientific Articles**  
+ 
 
 - **Dutrievoz, N., Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F.**  
    *Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes.*  
