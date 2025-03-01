@@ -858,7 +858,7 @@ a:hover {
 }
 
 .about-container h1 {
-    color: #003366; /* Bleu foncé */
+    color: #003366 !important; /* Bleu foncé */
 }
 
 .about-container {
