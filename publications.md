@@ -5,7 +5,7 @@
 
 # Publications
 
-📄 **Find my research on:**  
+**Find my research on:**  
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Niels-Dutrievoz)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GvFHtIwAAAAJ&hl=en&oi=ao)  
