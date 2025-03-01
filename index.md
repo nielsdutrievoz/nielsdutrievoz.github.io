@@ -10,7 +10,7 @@ title: About Me
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="assets/imgages/profile.jpg" alt="My Photo" style="width: 150px; border-radius: 50%;">
+  <img src="assets/images/profile.jpg" alt="My Photo" style="width: 150px; border-radius: 50%;">
   <div>
     <h1>About Me</h1>
     <p>Currently pursuing a PhD at the Laboratory of Climate and Environmental Sciences (LSCE) at Université Paris-Saclay, south of Paris, my research focuses on polar atmosphere modeling under the supervision of Cécile Agosta, within Amaelle Landais' team. A particular interest lies in modeling isotopic variability in Antarctica.</p>
