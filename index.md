@@ -6,8 +6,7 @@ title: Niels Dutrievoz
 
 [Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
-<br><br>
-
+<br>
 # About me
 
 <div style="display: flex; align-items: center; gap: 60px;">
@@ -33,6 +32,24 @@ title: Niels Dutrievoz
   
 - February 2025 : New paper out [here](http://dx.doi.org/10.1029/2024JD042073) in JGR Atmosphere. In this article, I evaluate the LMDZ6iso global atmospheric model in Antarctica in relation to surface snow, precipitation and water vapor isotopic observations. 
 
-- April 2024 : Rdv at the [EGU 2025](https://www.egu24.eu/). I am presenting a poster on this [abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-19539.html). 
+- April 2024 : Rdv at the [EGU 2025](https://www.egu24.eu/). I am presenting a poster on this [abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-19539.html).
 
+
+
+<footer class="social-footer">
+    <div class="social-icons">
+        <a href="mailto:niels.dutrievoz@lsce.ipsl.fr" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email">
+        </a>
+        <a href="https://www.linkedin.com/in/niels-dutrievoz/" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn">
+        </a>
+        <a href="https://bsky.app/profile/nielsdutrievoz.bsky.social" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/50/1E90FF/share.png" alt="Bluesky">
+        </a>
+        <a href="https://orcid.org/0000-0002-8133-5616" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/50/24C68B/orcid.png" alt="ORCID">
+        </a>
+    </div>
+</footer>
 
