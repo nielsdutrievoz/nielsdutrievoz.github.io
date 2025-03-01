@@ -6,7 +6,7 @@ title: Niels Dutrievoz
 
 [Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
-<br>
+
 # About me
 
 <div style="display: flex; align-items: center; gap: 60px;">
