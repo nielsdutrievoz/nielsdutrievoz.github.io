@@ -871,7 +871,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    background-color: #f8f8f8; /* Couleur de fond */
+    background-color: transparent; /* Couleur de fond */
     position: relative;
     bottom: 0;
     width: 100%;
