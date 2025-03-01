@@ -1,6 +1,6 @@
 
 
-[Home](/index) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
+[Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
 
 # Outreach
