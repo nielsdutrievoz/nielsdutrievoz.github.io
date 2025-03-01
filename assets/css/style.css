@@ -862,7 +862,7 @@ a:hover {
 }
 
 .about-container {
-    padding-top: 40px; /* Augmente l’espace au-dessus du texte et de l’image */
+    padding-top: 40px  !important; /* Augmente l’espace au-dessus du texte et de l’image */
 }
 
 
