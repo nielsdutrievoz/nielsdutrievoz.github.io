@@ -857,3 +857,8 @@ a:hover {
     gap: 40px; /* Augmente l’espace entre l’image et le texte */
 }
 
+.about-container h1 {
+    color: #003366; /* Bleu foncé */
+}
+
+
