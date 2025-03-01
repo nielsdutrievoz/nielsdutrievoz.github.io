@@ -6,7 +6,7 @@ title: Niels Dutrievoz
 
 [Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
-
+<div style="margin-top: 50px;"></div>
 
 <div style="display: flex; align-items: center; gap: 60px;">
   <img src="images/profile.jpg" alt="My Photo" style="width: 300px;">
