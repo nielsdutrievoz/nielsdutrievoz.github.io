@@ -1,11 +1,6 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
-.page-header {
-    background-image: url("https://nielsdutrievoz.github.io/images/banner.jpeg");
-    background-size: contain; /* Affiche l’image entière sans zoom */
-    background-repeat: no-repeat; /* Évite la répétition */
-    background-position: center; /* Centre l’image */
-}
+
 
 
 
@@ -848,5 +843,10 @@ a:hover {
     color: #819198
 }
 
-
+.page-header {
+    background-image: url("https://nielsdutrievoz.github.io/images/banner.jpeg");
+    background-size: contain; /* Affiche l’image entière sans zoom */
+    background-repeat: no-repeat; /* Évite la répétition */
+    background-position: center; /* Centre l’image */
+}
 
