@@ -866,3 +866,27 @@ a:hover {
 }
 
 
+.social-footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8; /* Couleur de fond */
+    margin-top: 50px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-icons a img {
+    width: 40px; /* Taille des icônes */
+    height: 40px;
+    transition: transform 0.3s ease;
+}
+
+.social-icons a img:hover {
+    transform: scale(1.2); /* Effet de zoom au survol */
+}
+
+
