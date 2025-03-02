@@ -14,7 +14,7 @@ title: Niels Dutrievoz
   <div>
     <p>Currently pursuing a PhD at the <a href="https://www.lsce.ipsl.fr/" target="_blank">Laboratory of Climate and Environmental Sciences</a> at <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>, south of Paris, I work on polar atmosphere modeling under the supervison of Cécile Agosta in Amaelle Landais' team. My research focuses specifically on modeling isotopic variability in Antarctica.</p>
     <p>I graduated from the <a href="https://ens-paris-saclay.fr/en/" target="_blank">École Normale Supérieure de Paris-Saclay</a> and hold a master's degree in Geosciences from the <a href="https://www.ens.psl.eu/en/" target="_blank">École Normale Supérieure Ulm</a>.</p>
-    <p>Science communication is another area I’m really passionate about. I co-created the popular science channel <a href="https://ordres-de-grandeur.com/" target="_blank">Ordres de grandeur</a> (<a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank">Instagram</a>, <a href="https://www.tiktok.com/@ordresdegrandeur/" target="_blank">Tiktok</a>), where we explore orders of magnitude—those staggering differences between the infinitely large and the infinitely small that shape our perception of the world.</p>
+    <p>Science communication is another area I’m really passionate about. I co-created the popular science channel <a href="https://ordres-de-grandeur.com/" target="_blank">Ordres de grandeur</a> (<a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank">Instagram</a>, <a href="https://www.tiktok.com/@ordresdegrandeur/" target="_blank">Tiktok</a>), where we explore orders of magnitude:those staggering differences between the infinitely large and the infinitely small that shape our perception of the world.</p>
   </div>
 </div>
  
@@ -28,11 +28,11 @@ title: Niels Dutrievoz
 
 # News
 
-- **April 2025** : Rdv at the [EGU 2025](https://www.egu25.eu/).
+- **April 2025** : Participation at the [EGU 2025](https://www.egu25.eu/).
   
 - **February 2025** : New paper out [here](http://dx.doi.org/10.1029/2024JD042073) in JGR Atmosphere. In this article, I evaluate the LMDZ6iso global atmospheric model in Antarctica in relation to surface snow, precipitation and water vapor isotopic observations. 
 
-- **April 2024** : Rdv at the [EGU 2025](https://www.egu24.eu/). I am presenting a poster on this [abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-19539.html).
+- **April 2024** : Participation at the [EGU 2025](https://www.egu24.eu/). I am presenting a poster ([abstract])(https://meetingorganizer.copernicus.org/EGU24/EGU24-19539.html).
 
 
 <br><br>
