@@ -7,3 +7,6 @@ title: "Niels Dutrievoz"
 description: "PhD Student in Polar Climate Modeling"
 
 header_image: "images/banner.jpeg"
+
+include:
+  - _includes/mathjax.html
