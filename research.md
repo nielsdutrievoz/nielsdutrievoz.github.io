@@ -7,7 +7,7 @@
 # Research  
 
 ### 🔬 Keywords  
-ANTARCTICA ⦁ POLAR CLIMATE ⦁ WATER ISOTOPES ⦁ CLIMATE PROJECTIONS ⦁ CLIMATE RECONSTRUCTIONS 
+Antarctica ⦁ Polar climate ⦁ Water isotopes ⦁ Climate Reconstructions
 
 ### 📌 Research Interests  
 - Polar atmospheric water cycle
@@ -19,7 +19,7 @@ Global Atmospheric Model LMDZ ⦁ Observations ⦁ Water stable isotopes ⦁ Rea
 
 ---
 
-My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. To investigate this, I use the **LMDZ6iso global atmospheric model** to simulate isotope dynamics.  
+My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. To investigate this, I use the [**LMDZ6iso global atmospheric model**](https://lmdz.lmd.jussieu.fr/) to simulate isotope dynamics.  
 
 In Antarctica, spatio-temporal variations of water isotopes are analyzed through **surface snow, precipitation, and water vapor samples**. This dual approach aims to **enhance our understanding of isotopic signals in ice cores** and to **identify the role of atmospheric processes**, particularly boundary layer dynamics, in shaping the hydrological cycle.  
 
