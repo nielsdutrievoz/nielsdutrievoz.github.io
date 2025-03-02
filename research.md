@@ -3,9 +3,70 @@
 [Home](/index) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
 
-# My Research
+# Research  
 
-I focus on polar atmosphere modeling...
+## 🔬 Keywords  
+**ANTARCTICA ⦁ POLAR CLIMATE ⦁ WATER ISOTOPES ⦁ CLIMATE PROJECTIONS ⦁ CLIMATE RECONSTRUCTIONS**  
+
+---
+
+## 📌 Research Interests  
+- 🌊 **Polar atmospheric water cycle**  
+- ☁ **Cloud processes**  
+- 🕰 **Climate reconstruction**  
+
+### 🛠 Tools & Methods  
+**Global Atmospheric Model LMDZ ⦁ Observations ⦁ Water stable isotopes ⦁ Reanalyses outputs ⦁ Global Climate Models outputs**  
+
+---
+
+## **🧊 Understanding the Antarctic Water Cycle**  
+My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. To investigate this, I use the **LMDZ6iso global atmospheric model** to simulate isotope dynamics.  
+
+In Antarctica, spatio-temporal variations of water isotopes are analyzed through **surface snow, precipitation, and water vapor samples**. This dual approach aims to **enhance our understanding of isotopic signals in ice cores** and to **identify the role of atmospheric processes**, particularly boundary layer dynamics, in shaping the hydrological cycle.  
+
+**Atmospheric general circulation models (AGCMs) with water isotopes** provide a crucial tool for simulating fractionation and transport processes. They allow us to investigate **isotopic signatures across different timescales**, from meteorological events to seasonal and interannual variations, as well as past climate reconstructions within a physically coherent framework.  
+
+---
+
+## **Study 1: Evaluating Water Isotopes in LMDZ6iso**  
+During my PhD, my first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparing its output with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapor isotopes** at two East Antarctic stations:  
+📍 **Dumont d'Urville (coastal)** and 📍 **Concordia (inland)**.  
+
+This evaluation examines **spatial, seasonal, and diurnal isotopic variations** in the model.  
+
+Next, I analyzed the **contributions of individual processes to boundary layer water vapor isotopes**, aiming to identify the key drivers of **clear-sky isotopic daily cycles** and to explain discrepancies between **model simulations and observations**.  
+🔹 **At Concordia**, daily isotope variations are mainly driven by **surface sublimation**.  
+🔹 **At Dumont d’Urville**, they are influenced by **both surface sublimation and advection by the katabatic flow**.  
+
+These results suggest that **further improvements in LMDZ6iso** should prioritize **better representation of isotopic exchanges during sublimation and condensation under low temperatures**.
+
+<div align="center">
+    <a href="https://doi.org/10.1029/2024JD042073" target="_blank">
+        <button style="background-color:#0078D4; color:white; padding:12px 24px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
+            📄 Access the Article
+        </button>
+    </a>
+</div>  
+
+---
+
+## **Study 2: Isotopic Anomaly During an Atmospheric River Event**  
+My second study focuses on **analyzing the isotopic anomaly in water vapor** induced by the passage of an **atmospheric river over Concordia** in December 2018. The isotopic composition of water vapor observed during this event can be explained by two key processes:  
+1️⃣ **The isotopic signature of long-range water transport**  
+2️⃣ **Local moisture uptake during the event**  
+
+Using the **LMDZ6iso simulation previously evaluated**, we show that **surface sublimation is the primary driver** of the positive **$\delta^{18}$O anomaly** in vapor, contributing **60% of the total signal**. This sublimation effect is significantly enhanced during the event compared to typical diurnal cycles. The **remaining 40%** of the anomaly is attributed to **large-scale moisture advection associated with the atmospheric river**.    
+These results highlight that the isotopic signal recorded in water vapor during atmospheric river events reflects a **combination of long-range moisture advection and interactions between the boundary layer and the snowpack**, reinforcing the importance of local surface processes in shaping Antarctic isotope variability.  
+
+<div align="center">
+    <a href="#" target="_blank">
+        <button style="background-color:#0078D4; color:white; padding:12px 24px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
+            📄 Access the Article
+        </button>
+    </a>
+</div>  
+
 
 
 
