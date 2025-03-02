@@ -6,12 +6,10 @@
 
 # Research  
 
-## 🔬 Keywords  
+### 🔬 Keywords  
 ANTARCTICA ⦁ POLAR CLIMATE ⦁ WATER ISOTOPES ⦁ CLIMATE PROJECTIONS ⦁ CLIMATE RECONSTRUCTIONS 
 
----
-
-## 📌 Research Interests  
+### 📌 Research Interests  
 - Polar atmospheric water cycle
 - Cloud processes
 - Climate reconstruction
