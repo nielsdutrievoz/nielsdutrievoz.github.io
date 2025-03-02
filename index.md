@@ -20,7 +20,7 @@ title: Niels Dutrievoz
  
 <div align="center">
     <a href="https://nielsdutrievoz.github.io/cv.pdf" download>
-        <img src="https://img.shields.io/badge/Download%20CV-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download my CV">
+        <img src="https://img.shields.io/badge/Download%20CV-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
     </a>
 </div>
 
