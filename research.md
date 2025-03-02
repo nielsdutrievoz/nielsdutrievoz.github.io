@@ -6,21 +6,20 @@
 # Research  
 
 ## 🔬 Keywords  
-**ANTARCTICA ⦁ POLAR CLIMATE ⦁ WATER ISOTOPES ⦁ CLIMATE PROJECTIONS ⦁ CLIMATE RECONSTRUCTIONS**  
+ANTARCTICA ⦁ POLAR CLIMATE ⦁ WATER ISOTOPES ⦁ CLIMATE PROJECTIONS ⦁ CLIMATE RECONSTRUCTIONS 
 
 ---
 
 ## 📌 Research Interests  
-- 🌊 **Polar atmospheric water cycle**  
-- ☁ **Cloud processes**  
-- 🕰 **Climate reconstruction**  
+- 🌊 Polar atmospheric water cycle*
+- ☁ Cloud processes
+- 🕰 Climate reconstruction
 
 ### 🛠 Tools & Methods  
-**Global Atmospheric Model LMDZ ⦁ Observations ⦁ Water stable isotopes ⦁ Reanalyses outputs ⦁ Global Climate Models outputs**  
+Global Atmospheric Model LMDZ ⦁ Observations ⦁ Water stable isotopes ⦁ Reanalyses outputs ⦁ Global Climate Models outputs
 
 ---
 
-## **🧊 Understanding the Antarctic Water Cycle**  
 My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. To investigate this, I use the **LMDZ6iso global atmospheric model** to simulate isotope dynamics.  
 
 In Antarctica, spatio-temporal variations of water isotopes are analyzed through **surface snow, precipitation, and water vapor samples**. This dual approach aims to **enhance our understanding of isotopic signals in ice cores** and to **identify the role of atmospheric processes**, particularly boundary layer dynamics, in shaping the hydrological cycle.  
@@ -29,7 +28,7 @@ In Antarctica, spatio-temporal variations of water isotopes are analyzed through
 
 ---
 
-## **Study 1: Evaluating Water Isotopes in LMDZ6iso**  
+### **Study 1: Evaluating Water Isotopes in LMDZ6iso**  
 During my PhD, my first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparing its output with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapor isotopes** at two East Antarctic stations:  
 📍 **Dumont d'Urville (coastal)** and 📍 **Concordia (inland)**.  
 
@@ -51,7 +50,7 @@ These results suggest that **further improvements in LMDZ6iso** should prioritiz
 
 ---
 
-## **Study 2: Isotopic Anomaly During an Atmospheric River Event**  
+### **Study 2: Isotopic Anomaly During an Atmospheric River Event**  
 My second study focuses on **analyzing the isotopic anomaly in water vapor** induced by the passage of an **atmospheric river over Concordia** in December 2018. The isotopic composition of water vapor observed during this event can be explained by two key processes:  
 1️⃣ **The isotopic signature of long-range water transport**  
 2️⃣ **Local moisture uptake during the event**  
