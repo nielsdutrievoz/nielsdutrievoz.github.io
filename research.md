@@ -2,6 +2,7 @@
 
 [Home](/index) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
+{% include mathjax.html %}
 
 # Research  
 
@@ -11,9 +12,9 @@ ANTARCTICA ⦁ POLAR CLIMATE ⦁ WATER ISOTOPES ⦁ CLIMATE PROJECTIONS ⦁ CLIM
 ---
 
 ## 📌 Research Interests  
-- 🌊 Polar atmospheric water cycle*
-- ☁ Cloud processes
-- 🕰 Climate reconstruction
+- Polar atmospheric water cycle*
+- Cloud processes
+- Climate reconstruction
 
 ### 🛠 Tools & Methods  
 Global Atmospheric Model LMDZ ⦁ Observations ⦁ Water stable isotopes ⦁ Reanalyses outputs ⦁ Global Climate Models outputs
