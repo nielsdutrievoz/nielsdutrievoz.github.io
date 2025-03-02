@@ -32,7 +32,7 @@ title: Niels Dutrievoz
   
 - **February 2025** : New paper out [here](http://dx.doi.org/10.1029/2024JD042073) in JGR Atmosphere. In this article, I evaluate the LMDZ6iso global atmospheric model in Antarctica in relation to surface snow, precipitation and water vapor isotopic observations. 
 
-- **April 2024** : Participation at the [EGU 2025](https://www.egu24.eu/). I am presenting a poster ([abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-19539.html)) during Session AS1.19.
+- **April 2024** : Participation at the [EGU 2024](https://www.egu24.eu/). I am presenting a poster ([abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-19539.html)) during Session AS1.19.
 
 
 <br><br>
