@@ -12,7 +12,7 @@ ANTARCTICA ⦁ POLAR CLIMATE ⦁ WATER ISOTOPES ⦁ CLIMATE PROJECTIONS ⦁ CLIM
 ---
 
 ## 📌 Research Interests  
-- Polar atmospheric water cycle*
+- Polar atmospheric water cycle
 - Cloud processes
 - Climate reconstruction
 
