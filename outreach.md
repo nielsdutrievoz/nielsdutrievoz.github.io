@@ -5,7 +5,7 @@
 
 # Outreach
 
-comming soon...
+coming soon...
 
 
 
