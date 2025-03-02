@@ -13,9 +13,9 @@
 
 ---
 
-## **Scientific Articles**  
+## Scientific Articles
  
-## **2024**
+### 2024
 
 - **Dutrievoz, N., Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F.**  
    *Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes.*  
@@ -27,14 +27,14 @@
    Atmospheric Chemistry and Physics, 2024.  
    [DOI: 10.5194/acp-24-4611-2024](https://acp.copernicus.org/articles/24/4611/2024/)  
 
-## **2023**
+### 2023
 
 - **Gorodetskaya, I. V., Durán-Alarcón, C., González-Herrero, S., Clem, K. R., Zou, X., Rowe, P., Rodriguez Imazio, P., Campos, D., Leroy-Dos Santos, C., Dutrievoz, N., Wille, J. D., Chyhareva, A., Favier, V., Blanchet, J., Pohl, B., Cordero, R. R., Park, S.-J., Colwell, S., Lazzara, M. A., Carrasco, J., Gulisano, A. M.**  
    *Record-high Antarctic Peninsula temperatures and surface melt in February 2022: a compound event with an intense atmospheric river.*  
    npj Climate and Atmospheric Science, 2023.  
    [DOI: 10.1038/s41612-023-00529-6](https://www.bas.ac.uk/data/our-data/publication/record-high-antarctic-peninsula-temperatures-and-surface-melt-in-february-2022/)
 
-## **2021**
+### 2021
  
 - **Pohl, B., Favier, V., Wille, J., Udy, D. G., Vance, T. R., Pergaud, J., Dutrievoz, N., Blanchet, J., Kittel, C., Amory, C.**  
    *Relationship between weather regimes and atmospheric rivers in East Antarctica.*  
