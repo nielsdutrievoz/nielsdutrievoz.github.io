@@ -21,7 +21,7 @@ Global Atmospheric Model LMDZ ⦁ Observations ⦁ Water stable isotopes ⦁ Rea
 
 My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. To investigate this, I use the [**LMDZ6iso global atmospheric model**](https://lmdz.lmd.jussieu.fr/) to simulate isotope dynamics.  
 
-In Antarctica, spatio-temporal variations of water isotopes are analyzed through **surface snow, precipitation, and water vapor samples**. This dual approach aims to **enhance our understanding of isotopic signals in ice cores** and to **identify the role of atmospheric processes**, particularly boundary layer dynamics, in shaping the hydrological cycle.  
+In Antarctica, the study of water isotopes in surface snow, precipitation, and vapour is conducted with a dual objectives: **gaining a deeper understanding of isotopic signals archived in ice cores**, and **deciphering the contributions of different atmospheric processes in driving the water cycle, including boundary layer processes.** 
 
 **Atmospheric general circulation models (AGCMs) with water isotopes** provide a crucial tool for simulating fractionation and transport processes. They allow us to investigate **isotopic signatures across different timescales**, from meteorological events to seasonal and interannual variations, as well as past climate reconstructions within a physically coherent framework.  
 
