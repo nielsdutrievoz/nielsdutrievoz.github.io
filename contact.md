@@ -18,7 +18,7 @@ niels.dutrievoz@lsce.ipsl.fr
 ---
 
 ### 🏢 Professional Address 
-📍 Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+📍 Laboratoire des Sciences du Climat et de l'Environnement (LSCE)  
 🔬 GLACCIOS Research Team
 
 🏢 **Office Location:**  
