@@ -49,7 +49,8 @@ These results suggest that **further improvements in LMDZ6iso** should prioritiz
 
 ---
 
-### **Study 2: Isotopic Anomaly During an Atmospheric River Event** (in preparation)
+### **Study 2: Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica** (in preparation)
+
 My second study focuses on **analyzing the isotopic anomaly in water vapor** induced by the passage of an **atmospheric river over Concordia** in December 2018. The isotopic composition of water vapor observed during this event can be explained by two key processes:  
 - **The isotopic signature of long-range water transport**  
 - **Local moisture uptake during the event**  
