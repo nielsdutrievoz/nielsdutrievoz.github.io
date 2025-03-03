@@ -27,7 +27,8 @@ In Antarctica, spatio-temporal variations of water isotopes are analyzed through
 
 ---
 
-### **Study 1: Evaluating Water Isotopes in LMDZ6iso**  
+### **Study 1: Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes**  
+
 During my PhD, my first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparaison with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapor isotopes** at two East Antarctic stations:  
 **Dumont d'Urville (coastal)** and **Concordia (inland)**. This evaluation examines **spatial, seasonal, and diurnal isotopic variations** in the model.  
 
