@@ -28,12 +28,11 @@ In Antarctica, spatio-temporal variations of water isotopes are analyzed through
 ---
 
 ### **Study 1: Evaluating Water Isotopes in LMDZ6iso**  
-During my PhD, my first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparing its output with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapor isotopes** at two East Antarctic stations:  
-**Dumont d'Urville (coastal)** and **Concordia (inland)**.  
-
-This evaluation examines **spatial, seasonal, and diurnal isotopic variations** in the model.  
+During my PhD, my first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparaison with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapor isotopes** at two East Antarctic stations:  
+**Dumont d'Urville (coastal)** and **Concordia (inland)**. This evaluation examines **spatial, seasonal, and diurnal isotopic variations** in the model.  
 
 Next, I analyzed the **contributions of individual processes to boundary layer water vapor isotopes**, aiming to identify the key drivers of **clear-sky isotopic daily cycles** and to explain discrepancies between **model simulations and observations**.  
+
 🔹 **At Concordia**, daily isotope variations are mainly driven by **surface sublimation**.  
 🔹 **At Dumont d’Urville**, they are influenced by **both surface sublimation and advection by the katabatic flow**.  
 
