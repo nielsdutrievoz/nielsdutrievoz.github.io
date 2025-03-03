@@ -5,11 +5,11 @@
 # Contact  
 
 📩 **Email**  
-✉️ niels.dutrievoz@lsce.ipsl.fr  
+niels.dutrievoz@lsce.ipsl.fr  
 
 ---
 
-### 📡 **Find me online**  
+### 📡 Find me online 
 
 [![ORCID](https://img.shields.io/badge/ORCID-24C68B?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8133-5616)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niels-dutrievoz/)  
@@ -17,18 +17,18 @@
 
 ---
 
-### 🏢 **Professional Address**  
-📍 **Laboratoire des Sciences du Climat et de l'Environnement (LSCE)**  
-🔬 **GLACCIOS Research Team**  
+### 🏢 Professional Address 
+📍 Laboratoire des Sciences du Climat et de l'Environnement (LSCE)
+🔬 GLACCIOS Research Team
 
 🏢 **Office Location:**  
 - LSCE, Orme des Merisiers  
 - 91191 Gif-sur-Yvette, FRANCE  
-- **Building 703, Room 14**  
+- Building 703, Room 14  
 
 ---
 
-## 📞 **Get in Touch!**  
+### 📞 Get in Touch!
 Feel free to reach out via email or through my social media profiles for any scientific collaborations or inquiries.
 
 
