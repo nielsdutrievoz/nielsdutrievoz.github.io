@@ -27,7 +27,7 @@ In Antarctica, the study of water isotopes in surface snow, precipitation, and v
 
 ---
 
-### **Study 1: Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes**  
+### Study 1: Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes  
 
 During my PhD, my first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparaison with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapor isotopes** at two East Antarctic stations: **Dumont d'Urville** (coastal) and **Concordia** (inland). This evaluation examines **spatial, seasonal, and diurnal isotopic variations** in the model.  
 
@@ -48,7 +48,7 @@ These results suggest that **further improvements in LMDZ6iso** should prioritiz
 
 ---
 
-### **Study 2: Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica** (in preparation)
+### Study 2: Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica (in preparation)
 
 My second study focuses on **analyzing the isotopic anomaly in water vapour** induced by the passage of an **atmospheric river over Concordia** in December 2018. The isotopic composition of water vapour observed during this event can be explained by two key processes:  
 - The isotopic signature of long-range water transport 
