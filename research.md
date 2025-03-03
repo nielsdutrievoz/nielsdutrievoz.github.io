@@ -49,18 +49,18 @@ These results suggest that **further improvements in LMDZ6iso** should prioritiz
 
 ---
 
-### **Study 2: Isotopic Anomaly During an Atmospheric River Event**  
+### **Study 2: Isotopic Anomaly During an Atmospheric River Event** (in preparation)
 My second study focuses on **analyzing the isotopic anomaly in water vapor** induced by the passage of an **atmospheric river over Concordia** in December 2018. The isotopic composition of water vapor observed during this event can be explained by two key processes:  
 - **The isotopic signature of long-range water transport**  
 - **Local moisture uptake during the event**  
 
-Using the **LMDZ6iso simulation previously evaluated**, we show that **surface sublimation is the primary driver** of the positive **$\delta^{18}$O anomaly** in vapor, contributing **60% of the total signal**. This sublimation effect is significantly enhanced during the event compared to typical diurnal cycles. The **remaining 40%** of the anomaly is attributed to **large-scale moisture advection associated with the atmospheric river**.    
+Using the **LMDZ6iso simulation previously evaluated**, we show that **surface sublimation is the primary driver** of the positive isotopic anomaly** in vapor, contributing **60% of the total signal**. This sublimation effect is significantly increase during the event compared to typical diurnal cycles. The **remaining 40%** of the anomaly is attributed to **large-scale moisture advection associated with the atmospheric river**.    
 These results highlight that the isotopic signal recorded in water vapor during atmospheric river events reflects a **combination of long-range moisture advection and interactions between the boundary layer and the snowpack**, reinforcing the importance of local surface processes in shaping Antarctic isotope variability.  
 
 <div align="center">
     <a href="#" target="_blank">
         <button style="background-color:#0078D4; color:white; padding:12px 24px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
-            📄 Access the Article
+            📄 Abstract
         </button>
     </a>
 </div>  
