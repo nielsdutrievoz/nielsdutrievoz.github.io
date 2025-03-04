@@ -42,7 +42,7 @@ Next, I analyzed the **contributions of individual processes to boundary layer w
 These results suggest that **further improvements in LMDZ6iso** should prioritize **better representation of isotopic exchanges during sublimation and condensation under low temperatures**.
 
 <div align="center">
-    <a href="https://doi.org/10.1029/2024JD042073" target="_blank">
+    <a href="[https://doi.org/10.1029/2024JD042073](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042073)" target="_blank">
         <button style="background-color:#0078D4; color:white; padding:12px 24px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
             📄 Access the Article
         </button>
