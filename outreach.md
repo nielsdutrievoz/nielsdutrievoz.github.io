@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Niels Dutrievoz
+---
 
 [Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
 
