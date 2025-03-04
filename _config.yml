@@ -10,9 +10,3 @@ header_image: "images/banner.jpeg"
 
 include:
   - _includes/mathjax.html
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
