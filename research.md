@@ -3,7 +3,7 @@ layout: default
 title: Niels Dutrievoz
 ---
 
-[Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Contact](/contact)
+[Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Teaching](/teaching) |  [Contact](/contact)
 
 {% include mathjax.html %}
 
