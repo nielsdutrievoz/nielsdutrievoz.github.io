@@ -12,8 +12,6 @@ title: Niels Dutrievoz
 
 Since 2023, I have been a teaching assistant at **ENSTA Paris**, guiding students on climate science and systemic analysis of the Anthropocene.  
 
-## Courses
-
 ### Climate Physics
 🔗 [Course page](https://ecampus.paris-saclay.fr/enrol/index.php?id=18625)  
 
