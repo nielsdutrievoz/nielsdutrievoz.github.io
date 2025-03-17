@@ -30,9 +30,11 @@ title: Niels Dutrievoz
 # News
 
 - **April 2025** : Participation at the [EGU 2025](https://www.egu25.eu/). I will be giving an oral presentation on Thursday, May 1st, from 15:05 to 15:15 during session AS1.22 ([abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-18530.html)). 
-
   
 - **February 2025** : New paper out [here](http://dx.doi.org/10.1029/2024JD042073) in JGR Atmosphere. In this article, I evaluate the LMDZ6iso global atmospheric model in Antarctica in relation to surface snow, precipitation and water vapor isotopic observations. 
+
+- **January 2025** : Guest on the science communication radio show [*Fréquence Recherche*](https://www.radiocampusparis.org/emission/LAp-frequence-recherche#:~:text=Retrouvez%20Fr%C3%A9quence%20Recherche%20en%20direct,podcast%20sur%20Radio%20Campus%20Paris.) on January 9, 2025, alongside [Julien Bobroff](https://fr.wikipedia.org/wiki/Julien_Bobroff). The episode is available [here](https://www.radiocampusparis.org/emission/LAp-frequence-recherche/JNR9-recherche-et-vulgarisation-julien-bobroff-et-niels-dutrievoz).  
+
 
 - **April 2024** : Participation at the [EGU 2024](https://www.egu24.eu/). I am presenting a poster ([abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-19539.html)) during Session AS1.19.
 
