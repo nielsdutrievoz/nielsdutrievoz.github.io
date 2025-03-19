@@ -10,7 +10,7 @@ title: Niels Dutrievoz
 # Research  
 
 ### 🔬 Keywords  
-Antarctica ⦁ Polar climate ⦁ Water isotopes ⦁ Climate Reconstructions
+Antarctica ⦁ Polar climate ⦁ Water isotopes 
 
 ### 📌 Research Interests  
 - Polar atmospheric water cycle
