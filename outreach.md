@@ -21,7 +21,7 @@ Our goal is to spark curiosity, foster critical thinking, and provide useful per
 
 > **100,000+ followers** • **10+ million views** • Represented by **Intello**
 
-<img src="https://github.com/nielsdutrievoz/nielsdutrievoz.github.io/images/team-ODG.jpeg" alt="Description" style="float: right; margin: 0 0 1em 1em; width: 300px;">
+<img src="/images/team-ODG.jpg" alt="Description" style="float: right; margin: 0 0 1em 1em; width: 300px;">
 
 
 [![👉 Learn more](https://img.shields.io/badge/%F0%9F%91%89%20Learn%20more-blue?style=for-the-badge)](https://www.instagram.com/ordres.de.grandeur/)
