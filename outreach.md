@@ -26,7 +26,6 @@ Our goal is to spark curiosity, foster critical thinking, and provide useful per
 
 [![👉 Learn more](https://img.shields.io/badge/%F0%9F%91%89%20Learn%20more-blue?style=for-the-badge)](https://www.instagram.com/ordres.de.grandeur/)
 
-#### 📱 Follow us
 
 <div style="text-align: center; margin: 2em 0;">
   <a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank" style="margin: 0 10px;">
@@ -67,9 +66,16 @@ We developed a large-scale outreach and educational program involving **hundreds
 
 📸 *Photo from the expedition*
 
-#### 🎥 In the media
+<p>🎬 I had the chance to present the project alongside Lana Lenourry on <em>Epicurieux</em>, the science show hosted by Jamy Gourmaud:</p>
 
-- [🎬 Featured on Jamy's show *Epicurieux* (with Lana Lenourry)](https://www.youtube.com/watch?v=Y6065J56uI4&t=821s)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe src="https://www.youtube.com/embed/Y6065J56uI4?start=821"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen title="Antarctica 2.0°C - Epicurieux">
+  </iframe>
+</div>
+
 
 #### 🗞️ Press coverage
 
