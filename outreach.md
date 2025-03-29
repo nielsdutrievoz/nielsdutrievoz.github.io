@@ -54,7 +54,7 @@ As part of my PhD, I’ve taken part in many science outreach events, including 
 
 We created **“Question pour un glaçon”**, a quiz on climate and polar-related orders of magnitude — with a real piece of Greenland ice as a prize! We also designed a hands-on **escape game**, immersing participants in a polar research expedition in Antarctica.
 
-<img src="/images/forum_meteo_climat.jpeg" alt="Meteo Climat" style="display: block; margin: 2em auto; width: 300px;">
+<img src="/images/forum_meteo_climat.jpeg" alt="Meteo Climat" style="display: block; margin: 2em auto; width: 400px;">
 
 
 ---
@@ -64,8 +64,8 @@ We created **“Question pour un glaçon”**, a quiz on climate and polar-relat
 I also co-created **Antarctica 2.0°C**, a scientific and outreach expedition by sailboat from Marseille to Antarctica, with six students and two sailors on board.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 2em 0;">
-  <img src="/images/equipe_antarctique_a2d.jpg" alt="A2D team" style="width: 300px; border-radius: 8px;">
-  <img src="/images/niels_vernadsky.jpeg" alt="Niels Vernadsky" style="width: 300px; border-radius: 8px;">
+  <img src="/images/equipe_antarctique_a2d.jpg" alt="A2D team" style="width: 400px; border-radius: 8px;">
+  <img src="/images/niels_vernadsky.jpeg" alt="Niels Vernadsky" style="width: 400px; border-radius: 8px;">
 </div>
 
 
