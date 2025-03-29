@@ -28,10 +28,21 @@ Our goal is to spark curiosity, foster critical thinking, and provide useful per
 
 #### 📱 Follow us
 
-[![Instagram](https://img.shields.io/badge/Instagram-@ordres.de.grandeur-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ordres.de.grandeur/)
-[![TikTok](https://img.shields.io/badge/TikTok-@ordresdegrandeur-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@ordresdegrandeur)
-[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100092357955162)
-[![YouTube](https://img.shields.io/badge/YouTube-@ordresdegrandeur-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@ordresdegrandeur)
+<div style="text-align: center; margin: 2em 0;">
+  <a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="32" height="32">
+  </a>
+  <a href="https://www.tiktok.com/@ordresdegrandeur" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" width="32" height="32">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100092357955162" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="32" height="32">
+  </a>
+  <a href="https://www.youtube.com/@ordresdegrandeur" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="32" height="32">
+  </a>
+</div>
+
 
 ---
 
