@@ -48,7 +48,7 @@ Our goal is to spark curiosity, foster critical thinking, and provide useful per
 
 ---
 
-## 🧊 Science through games
+## 🧊 Science through mediation
 
 As part of my PhD, I’ve taken part in many science outreach events, including the *International Weather and Climate Forum* at the Académie du Climat and *Science Infuse* at the Cité des sciences.
 
