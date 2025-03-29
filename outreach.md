@@ -62,11 +62,13 @@ We created **“Question pour un glaçon”**, a quiz on climate and polar-relat
 
 I also co-created **Antarctica 2.0°C**, a scientific and outreach expedition by sailboat from Marseille to Antarctica, with six students and two sailors on board.
 
+<img src="/images/Equipe_complete.jpeg" alt="A2D team" style="display: block; margin: 2em auto; width: 300px;">
+
 We developed a large-scale [outreach and educational program](https://www.j2d.org/projet-pedagogique) involving **hundreds of schools across France**, focused on climate and polar sciences.
 
 [![🌐 Expedition website](https://img.shields.io/badge/%F0%9F%8C%90%20Expedition%20website-blue?style=for-the-badge)](https://www.j2d.org/antarctique2d)  
 
-📸 *Photo from the expedition*
+<img src="/images/niels_vernadsky.jpeg" alt="Niels Vernadsky" style="display: block; margin: 2em auto; width: 300px;">
 
 <p>🎬 I had the chance to present the project alongside Lana Lenourry on <em>Epicurieux</em>, the science show hosted by Jamy Gourmaud:</p>
 
