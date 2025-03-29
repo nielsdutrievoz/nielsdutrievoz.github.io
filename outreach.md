@@ -54,7 +54,8 @@ As part of my PhD, I’ve taken part in many science outreach events, including 
 
 We created **“Question pour un glaçon”**, a quiz on climate and polar-related orders of magnitude — with a real piece of Greenland ice as a prize! We also designed a hands-on **escape game**, immersing participants in a polar research expedition in Antarctica.
 
-📸 *Photo from the activity*
+<img src="/images/forum_meteo_climat.jpeg" alt="Meteo Climat" style="display: block; margin: 2em auto; width: 300px;">
+
 
 ---
 
@@ -62,7 +63,7 @@ We created **“Question pour un glaçon”**, a quiz on climate and polar-relat
 
 I also co-created **Antarctica 2.0°C**, a scientific and outreach expedition by sailboat from Marseille to Antarctica, with six students and two sailors on board.
 
-<img src="/images/Equipe_complete.jpeg" alt="A2D team" style="display: block; margin: 2em auto; width: 300px;">
+<img src="/images/equipe_antarctique_a2d.jpg" alt="A2D team" style="display: block; margin: 2em auto; width: 400px;">
 
 We developed a large-scale [outreach and educational program](https://www.j2d.org/projet-pedagogique) involving **hundreds of schools across France**, focused on climate and polar sciences.
 
