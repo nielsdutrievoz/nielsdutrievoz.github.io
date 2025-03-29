@@ -78,7 +78,7 @@ We developed a large-scale [outreach and educational program](https://www.j2d.or
 
 <p>I had the chance to present the project alongside Lana Lenourry on <em>Epicurieux</em>, the science show hosted by Jamy Gourmaud:</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; margin: 1em 0;">
   <iframe src="https://www.youtube.com/embed/Y6065J56uI4?start=821"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
