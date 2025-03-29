@@ -17,6 +17,8 @@ title: Niels Dutrievoz
     <p>Science communication is another area I’m really interesting in. I co-created the popular science channel <a href="https://ordres-de-grandeur.com/" target="_blank">Ordres de grandeur</a> (<a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank">Instagram</a>, <a href="https://www.tiktok.com/@ordresdegrandeur/" target="_blank">Tiktok</a>), where we explore orders of magnitude: those huge differences between the infinitely large and the infinitely small which contribute to a better understanding of the world.</p>
   </div>
 </div>
+
+
  
 <div align="center">
     <a href="https://nielsdutrievoz.github.io/cv.pdf" download>
