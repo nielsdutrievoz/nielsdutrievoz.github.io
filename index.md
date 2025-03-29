@@ -12,7 +12,7 @@ title: Niels Dutrievoz
 <style>
   .profile-container {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 60px;
     flex-wrap: wrap;
   }
@@ -20,17 +20,19 @@ title: Niels Dutrievoz
   .profile-image {
     width: 300px;
     max-width: 100%;
+    flex-shrink: 0;
   }
 
   @media (max-width: 768px) {
     .profile-container {
       flex-direction: column;
-      gap: 20px;
+      align-items: center;
       text-align: center;
+      gap: 20px;
     }
 
     .profile-container div {
-      padding: 0 10px;
+      padding: 0 15px;
     }
   }
 </style>
@@ -49,6 +51,7 @@ title: Niels Dutrievoz
     <img src="https://img.shields.io/badge/Download%20CV-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
   </a>
 </div>
+
 
  
 <div align="center">
