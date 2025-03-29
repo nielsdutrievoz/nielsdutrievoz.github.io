@@ -15,7 +15,7 @@ Passionate about science communication, I focus on making science accessible and
 
 ## 🎥 Ordres de grandeur
 
-In 2022, I co-founded **Ordres de grandeur** with Baptiste Arnaud and Arthur Gublin — a science communication project exploring the world through the lens of *orders of magnitude*. We create short, insightful videos on social media that combine real-world examples, striking numbers, and scientific storytelling.
+In 2022, I co-founded **[Ordres de grandeur](https://ordres-de-grandeur.com/)** with Baptiste Arnaud and Arthur Gublin — a science communication project exploring the world through the lens of *orders of magnitude*. We create short, insightful videos on social media that combine real-world examples, striking numbers, and scientific storytelling.
 
 Our goal is to spark curiosity, foster critical thinking, and provide useful perspectives on major issues — energy, health, climate, technology — by helping people see the difference between what’s negligible and what really matters.
 
@@ -66,11 +66,16 @@ I also co-created **Antarctica 2.0°C**, a scientific and outreach expedition by
 
 We developed a large-scale [outreach and educational program](https://www.j2d.org/projet-pedagogique) involving **hundreds of schools across France**, focused on climate and polar sciences.
 
-[![🌐 Expedition website](https://img.shields.io/badge/%F0%9F%8C%90%20Expedition%20website-blue?style=for-the-badge)](https://www.j2d.org/antarctique2d)  
+<div style="text-align: center; margin: 2em 0;">
+  <a href="https://www.j2d.org/antarctique2d" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Expedition%20website-blue?style=for-the-badge" alt="Expedition website">
+  </a>
+</div>
+
 
 <img src="/images/niels_vernadsky.jpeg" alt="Niels Vernadsky" style="display: block; margin: 2em auto; width: 300px;">
 
-<p>🎬 I had the chance to present the project alongside Lana Lenourry on <em>Epicurieux</em>, the science show hosted by Jamy Gourmaud:</p>
+<p>I had the chance to present the project alongside Lana Lenourry on <em>Epicurieux</em>, the science show hosted by Jamy Gourmaud:</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe src="https://www.youtube.com/embed/Y6065J56uI4?start=821"
