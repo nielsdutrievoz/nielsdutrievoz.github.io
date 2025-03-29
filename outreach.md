@@ -23,7 +23,11 @@ Our goal is to spark curiosity, foster critical thinking, and provide useful per
 
 <img src="/images/teamODG.jpg" alt="Ordres de grandeur team" style="display: block; margin: 2em auto; width: 300px;">
 
-[![👉 Learn more](https://img.shields.io/badge/%F0%9F%91%89%20Learn%20more-blue?style=for-the-badge)](https://www.instagram.com/ordres.de.grandeur/)
+<div style="text-align: center; margin: 2em 0;">
+  <a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20Learn%20more-blue?style=for-the-badge" alt="Learn more">
+  </a>
+</div>
 
 
 <div style="text-align: center; margin: 2em 0;">
@@ -58,10 +62,9 @@ We created **“Question pour un glaçon”**, a quiz on climate and polar-relat
 
 I also co-created **Antarctica 2.0°C**, a scientific and outreach expedition by sailboat from Marseille to Antarctica, with six students and two sailors on board.
 
-We developed a large-scale outreach and educational program involving **hundreds of schools across France**, focused on climate and polar sciences.
+We developed a large-scale [outreach and educational program](https://www.j2d.org/projet-pedagogique) involving **hundreds of schools across France**, focused on climate and polar sciences.
 
 [![🌐 Expedition website](https://img.shields.io/badge/%F0%9F%8C%90%20Expedition%20website-blue?style=for-the-badge)](https://www.j2d.org/antarctique2d)  
-[![📚 Pedagogical project](https://img.shields.io/badge/%F0%9F%93%9A%20Pedagogical%20project-blue?style=for-the-badge)](https://www.j2d.org/projet-pedagogique)
 
 📸 *Photo from the expedition*
 
