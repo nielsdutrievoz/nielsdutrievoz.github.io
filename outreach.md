@@ -19,7 +19,7 @@ In 2022, I co-founded **Ordres de grandeur** with Baptiste Arnaud and Arthur Gub
 
 Our goal is to spark curiosity, foster critical thinking, and provide useful perspectives on major issues — energy, health, climate, technology — by helping people see the difference between what’s negligible and what really matters.
 
-> **100,000+ followers** • **10+ million views** • Represented by **Intello**
+> **100,000+ followers** • **26+ million views** • Represented by **Intello**
 
 <img src="/images/teamODG.jpg" alt="Ordres de grandeur team" style="display: block; margin: 2em auto; width: 300px;">
 
