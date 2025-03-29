@@ -21,7 +21,7 @@ Our goal is to spark curiosity, foster critical thinking, and provide useful per
 
 > **100,000+ followers** • **10+ million views** • Represented by **Intello**
 
-<img src="/images/team-ODG.jpg" alt="Ordres de grandeur team" style="display: block; margin: 2em auto; width: 300px;">
+<img src="/images/teamODG.jpg" alt="Ordres de grandeur team" style="display: block; margin: 2em auto; width: 300px;">
 
 [![👉 Learn more](https://img.shields.io/badge/%F0%9F%91%89%20Learn%20more-blue?style=for-the-badge)](https://www.instagram.com/ordres.de.grandeur/)
 
