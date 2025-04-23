@@ -20,9 +20,9 @@ title: Niels Dutrievoz
  
 ### 2025
 
-- Ollivier, I., Lauwers, T., Dutrievoz, N., Agosta, C., Casado, M., Fourré, E., Genthon, C., Jossoud, O., Prié, F., Steen-Larsen, H. C., & Landais, A.  
+- **Ollivier, I., Lauwers, T., Dutrievoz, N., Agosta, C., Casado, M., Fourré, E., Genthon, C., Jossoud, O., Prié, F., Steen-Larsen, H. C., & Landais, A.**  
   *Time series of the summertime diurnal variability in the atmospheric water vapour isotopic composition at Concordia station, East Antarctica.*  
-  *Earth System Science Data Discussions*, 2025 (preprint).  
+  *Earth System Science Data Discussions*, 2025 ***(preprint)***.  
   [https://doi.org/10.5194/essd-2025-35](https://doi.org/10.5194/essd-2025-35)
 
 
