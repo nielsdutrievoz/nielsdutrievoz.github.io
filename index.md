@@ -31,6 +31,8 @@ title: Niels Dutrievoz
 
 # News
 
+- **May 2025** : Co-leading a session on **science communication and social media** as part of the *Best Practices Guide for Science Communication and Mediation* organized by the [Centre Climat-Société (C2S)](https://www.ipsl.fr/centre-climat-societe/). The session, titled *"Sensibiliser et agir sur les réseaux sociaux"* and held at IPSL (Jussieu), will take place on May 26. 
+
 - **May 2025** : Participation at the [AARG Workshop on Atmospheric Rivers](https://aarg-workshop.sciencesconf.org/), held in Grenoble from May 5 to 8.
 
 - **April 2025** : Participation at the [EGU 2025](https://www.egu25.eu/). I will be giving an oral presentation on Thursday, May 1st, from 15:05 to 15:15 during session AS1.22 ([abstract](https://meetingorganizer.copernicus.org/EGU25/EGU25-18530.html) and [presentation support](https://drive.google.com/file/d/1J2isjqr7QTLSp1IwDWniUulnF41hXVDM/view?usp=sharing)). 
