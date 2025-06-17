@@ -7,7 +7,7 @@ plugins:
 include: ["assets/css/style.css"]
 
 title: "Niels Dutrievoz"
-description: "PhD Student in Polar Climate Modeling"
+description: "PhD Student in polar climate modelling"
 
 header_image: "images/banner.jpeg"
 
