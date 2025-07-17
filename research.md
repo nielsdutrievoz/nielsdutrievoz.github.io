@@ -61,9 +61,9 @@ Using the LMDZ6iso simulation previously evaluated, we show that **surface subli
 These results highlight that the isotopic signal recorded in water vapor during atmospheric river events reflects a **combination of long-range moisture advection and interactions between the boundary layer and the snowpack**, reinforcing the importance of local surface processes in shaping Antarctic isotope variability.  
 
 <div align="center">
-    <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-18530.html" target="_blank">
+    <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2590/" target="_blank">
         <button style="background-color:#0078D4; color:white; padding:12px 24px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
-            Abstract
+            Preprint
         </button>
     </a>
 </div>  
