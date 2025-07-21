@@ -20,6 +20,12 @@ title: Niels Dutrievoz
  
 ### 2025
 
+- **Dutrievoz, N., Agosta, C., Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy‑Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., & Prié, F.**  
+  *Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica.*  
+  *EGUsphere* **(preprint)**, 2025.  
+  [DOI: 10.5194/egusphere-2025-2590](https://doi.org/10.5194/egusphere-2025-2590)
+
+
 - **Dutrievoz, N., Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F.**  
    *Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes.*  
    Journal of Geophysical Research: Atmospheres, 2024.  
