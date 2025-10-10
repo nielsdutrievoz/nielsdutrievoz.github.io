@@ -28,6 +28,10 @@ In Antarctica, the study of water isotopes in surface snow, precipitation, and v
 
 **Atmospheric general circulation models (AGCMs) with water isotopes** provide a crucial tool for simulating fractionation and transport processes. They allow us to investigate **isotopic signatures across different timescales**, from meteorological events to seasonal and interannual variations, as well as past climate reconstructions within a physically coherent framework.  
 
+
+<img src="/images/antarctica_atmospheric_water_cycle.jpg" alt="Atmospheric water cycle in Antarctica " style="display: block; margin: 2em auto; width: 300px;">
+
+
 ---
 
 ### Study 1: Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes  
