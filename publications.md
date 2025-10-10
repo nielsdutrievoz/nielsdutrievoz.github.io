@@ -30,7 +30,8 @@ title: Niels Dutrievoz
 
 - **Bong, H., LeGrande, A. N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H. C., Casado, M., Wahl, S., … & Schmidt, G. A.**  
   *Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate.*  
-  *Journal of Geophysical Research: Atmospheres* **(under review)**, 2025.
+  *Journal of Geophysical Research: Atmospheres* **(under review)**, 2025.  
+  [DOI: 10.22541/essoar.175330911.17791287/v1](https://doi.org/10.22541/essoar.175330911.17791287/v1)
 
 - **Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., Agosta, C., Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., & Stenni, B.**  
   *Air Mass Origin Effects on Antarctic Snow Isotopic Composition.*  
