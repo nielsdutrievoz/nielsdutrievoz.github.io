@@ -20,6 +20,29 @@ title: Niels Dutrievoz
  
 ### 2025
 
+- **Dutrievoz, N., Agosta, C., Vignon, É., Wahl, S., Casado, M., Ooms, A., Nguyen, S., Landais, A., Fourré, E., Minster, B., & Prié, F.**  
+  *Improving isotopic surface fluxes in polar regions with LMDZiso: a case study at Dome C, East Antarctica.*  
+  *Journal of Advances in Modeling Earth Systems (JAMES)* **(in preparation)**, 2025.
+
+- **Casado, M., Bailey, A., Leroy-Dos Santos, C., Fourré, E., Favier, V., Agosta, C., Dutrievoz, N., Kittel, C., Arnaud, L., Prié, F., Akers, P. D., Cauquoin, A., Werner, M., Janssen, L., Stenni, B., Dreossi, G., Spolaor, A., Petteni, A., Savarino, J., & Landais, A.**  
+  *Caveats of the isotopic paleothermometer: spatial and temporal isotope–temperature relationships.*  
+  *Nature Geoscience* **(under review)**, 2025.
+
+- **Bong, H., LeGrande, A. N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R., Ding, Q., Dutrievoz, N., Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H. C., Casado, M., Wahl, S., … & Schmidt, G. A.**  
+  *Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate.*  
+  *Journal of Geophysical Research: Atmospheres* **(under review)**, 2025.
+
+- **Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., Agosta, C., Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., & Stenni, B.**  
+  *Air Mass Origin Effects on Antarctic Snow Isotopic Composition.*  
+  *EGUsphere* **(preprint)**, 2025.  
+  [DOI: 10.5194/egusphere-2025-3188](https://doi.org/10.5194/egusphere-2025-3188)
+
+ - **Tcheng, T., Fourré, E., Leroy-Dos-Santos, C., Parrenin, F., Le Meur, E., Prié, F., Jossoud, O., Jacob, R., Minster, B., Magand, O., Agosta, C., Dutrievoz, N., Favier, V., Baubant, L., Lassalle-Bernard, C., Casado, M., Werner, M., Cauquoin, A., Arnaud, L., Jourdain, B., Picard, G., Bouchet, M., & Landais, A.**  
+  *Multiproxy analyses of multiple firn cores from coastal Adélie Land covering the last 40 years.*  
+  *EGUsphere* **(preprint)**, 2025.  
+  [DOI: 10.5194/egusphere-2025-2863](https://doi.org/10.5194/egusphere-2025-2863)
+
+
 - **Dutrievoz, N., Agosta, C., Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy‑Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., & Prié, F.**  
   *Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica.*  
   *EGUsphere* **(preprint)**, 2025.  
