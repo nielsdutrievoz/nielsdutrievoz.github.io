@@ -28,8 +28,21 @@ title: Niels Dutrievoz
 
 ---
 
+## Featured media
+
+<div align="center">
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/cpVs4qevVE8" title="Présentation de ma thèse - Les Chantiers de la recherche (France Culture)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><em>Presentation of my PhD work on "Les Chantiers de la recherche" (France Culture).</em></p>
+</div>
+
+---
+
 
 # News
+
+- **2 December 2025** : PhD defense at the [Laboratoire des Sciences du Climat et de l’Environnement (LSCE)](https://www.lsce.ipsl.fr/), Université Paris-Saclay.
+
+- **October 2025** : Appearance on the France Culture programme *Les Chantiers de la recherche* to present my PhD work.
 
 - **May 2025** : Co-leading a session on **science communication and social media** as part of the *Best Practices Guide for Science Communication and Mediation* organized by the [Centre Climat-Société (C2S)](https://www.ipsl.fr/centre-climat-societe/). The session, titled *"Sensibiliser et agir sur les réseaux sociaux"* and held at IPSL (Jussieu), will take place on May 26. 
 
