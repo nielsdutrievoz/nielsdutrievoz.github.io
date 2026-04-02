@@ -14,7 +14,7 @@ title: Niels Dutrievoz
   <div>
 
 <p>
-Currently a postdoctoral researcher working with <a href="https://mathieucasado.com/" target="_blank">Mathieu Casado</a> at the <a href="https://www.lsce.ipsl.fr/" target="_blank">Laboratory of Climate and Environmental Sciences</a> (LSCE), part of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>, I recently completed a PhD on <em>water vapour isotopes in Antarctica as tracers of boundary layer processes and large-scale dynamics</em>, under the supervision of <a href="https://cecileagosta.github.io/" target="_blank">Cécile Agosta</a> in <a href="https://www.lsce.ipsl.fr/en/archives-traceurs/glaccios/" target="_blank">Amaelle Landais' team</a>.
+Currently a postdoctoral researcher working with <a href="https://mathieucasado.com/" target="_blank">Mathieu Casado</a> at the <a href="https://www.lsce.ipsl.fr/" target="_blank">Laboratory of Climate and Environmental Sciences</a> (LSCE), part of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>, I recently completed a PhD entitled <em>Water vapour isotopes in Antarctica as tracers of boundary layer processes and large-scale dynamics</em>, under the supervision of <a href="https://cecileagosta.github.io/" target="_blank">Cécile Agosta</a> in <a href="https://www.lsce.ipsl.fr/en/archives-traceurs/glaccios/" target="_blank">Amaelle Landais' team</a>.
 </p>
 
 <p>I graduated from the <a href="https://ens-paris-saclay.fr/en/" target="_blank">École Normale Supérieure de Paris-Saclay</a> and hold a master's degree in Geosciences from the <a href="https://www.ens.psl.eu/en/" target="_blank">École Normale Supérieure Ulm</a>.
