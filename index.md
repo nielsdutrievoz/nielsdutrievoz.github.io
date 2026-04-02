@@ -28,7 +28,7 @@ Currently a postdoctoral researcher working with <a href="https://mathieucasado.
 
  
 <div align="center">
-    <a href="https://nielsdutrievoz.github.io/CV_ND_2025_english.pdf" download>
+    <a href="https://nielsdutrievoz.github.io/CV_ND_2026_english.pdf" download>
         <img src="https://img.shields.io/badge/Download%20CV-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
     </a>
 </div>
