@@ -12,12 +12,19 @@ title: Niels Dutrievoz
 <div style="display: flex; align-items: center; gap: 60px;">
   <img src="images/profile.jpg" alt="My Photo" style="width: 300px;">
   <div>
-    <p>Currently pursuing a PhD at the <a href="https://www.lsce.ipsl.fr/" target="_blank">Laboratory of Climate and Environmental Sciences</a> at <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>, south of Paris, I work on polar atmosphere modelling under the supervision of <a href="https://cecileagosta.github.io/" target="_blank">Cécile Agosta</a> in <a href="https://www.lsce.ipsl.fr/en/archives-traceurs/glaccios/" target="_blank">Amaelle Landais' team</a>. My research focuses specifically on modelling isotopic variability in Antarctica.</p>
-    <p>I graduated from the <a href="https://ens-paris-saclay.fr/en/" target="_blank">École Normale Supérieure de Paris-Saclay</a>. I also hold a master's degree in Geosciences from the <a href="https://www.ens.psl.eu/en/" target="_blank">École Normale Supérieure Ulm</a>.</p>
-    <p>Science communication is another area I’m really interesting in. I co-created the popular science channel <a href="https://ordres-de-grandeur.com/" target="_blank">Ordres de grandeur</a> (<a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank">Instagram</a>, <a href="https://www.tiktok.com/@ordresdegrandeur/" target="_blank">Tiktok</a>), where we explore orders of magnitude: those huge differences between the infinitely large and the infinitely small which contribute to a better understanding of the world.</p>
+
+<p>
+Currently a postdoctoral researcher working with <a href="https://mathieucasado.com/" target="_blank">Mathieu Casado</a> at the <a href="https://www.lsce.ipsl.fr/" target="_blank">Laboratory of Climate and Environmental Sciences</a> (LSCE), part of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Université Paris-Saclay</a>, I recently completed a PhD on <em>water vapour isotopes in Antarctica as tracers of boundary layer processes and large-scale dynamics</em>, under the supervision of <a href="https://cecileagosta.github.io/" target="_blank">Cécile Agosta</a> in <a href="https://www.lsce.ipsl.fr/en/archives-traceurs/glaccios/" target="_blank">Amaelle Landais' team</a>.
+</p>
+
+<p>I graduated from the <a href="https://ens-paris-saclay.fr/en/" target="_blank">École Normale Supérieure de Paris-Saclay</a> and hold a master's degree in Geosciences from the <a href="https://www.ens.psl.eu/en/" target="_blank">École Normale Supérieure Ulm</a>.
+</p>
+  
+  <p>Science communication is another area I’m really interesting in. I co-created the popular science channel <a href="https://ordres-de-grandeur.com/" target="_blank">Ordres de grandeur</a> (<a href="https://www.instagram.com/ordres.de.grandeur/" target="_blank">Instagram</a>, <a href="https://www.tiktok.com/@ordresdegrandeur/" target="_blank">Tiktok</a>), where we explore orders of magnitude: those huge differences between the infinitely large and the infinitely small which contribute to a better understanding of the world.
+</p>
+
   </div>
 </div>
-
 
  
 <div align="center">
