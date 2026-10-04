@@ -1,11 +1,15 @@
+---
+layout: default
+title: Niels Dutrievoz
+---
 
 
-[Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Teaching](/teaching) |  [Contact](/contact)
+{% include nav.html %}
 
 # Contact  
 
 📩 **Email**  
-niels.dutrievoz@lsce.ipsl.fr  
+niels.dutrievoz@proton.me  
 
 ---
 
@@ -31,4 +35,4 @@ niels.dutrievoz@lsce.ipsl.fr
 ### 📞 Get in Touch!
 Feel free to reach out via email or through my social media profiles for any scientific collaborations or inquiries.
 
-
+{% include footer.html %}

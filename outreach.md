@@ -3,7 +3,7 @@ layout: default
 title: Niels Dutrievoz
 ---
 
-[Home](/) | [Research](/research) | [Publications](/publications) |  [Outreach](/outreach) |  [Teaching](/teaching) |  [Contact](/contact)
+{% include nav.html %}
 
 
 # Outreach
@@ -48,6 +48,24 @@ Our goal is to spark curiosity, foster critical thinking, and provide useful per
 
 ---
 
+## 📖 *De la fourmi à la galaxie* (Vuibert, 2026)
+
+With Baptiste Arnaud and Arthur Gublin, we turned the *Ordres de grandeur* approach into a book: ***De la fourmi à la galaxie : 100 questions pour comprendre la vie, la Terre, l'infini et au-delà***, published by **Vuibert** in October 2026.
+
+One hundred questions to measure, compare and be surprised by the world around us, from the scale of an ant to that of a galaxy.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <img src="/images/livre_de_la_fourmi_a_la_galaxie.jpg" alt="Cover of De la fourmi à la galaxie (Vuibert, 2026)" style="width: 260px; max-width: 80%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div style="text-align: center; margin: 2em 0;">
+  <a href="https://tidd.ly/4xT9p01" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%96%20Order%20the%20book-blue?style=for-the-badge" alt="Order the book">
+  </a>
+</div>
+
+---
+
 ## 🧊 Science through mediation
 
 As part of my PhD, I’ve taken part in many science outreach events, including the *International Weather and Climate Forum* at the Académie du Climat and *Science Infuse* at the Cité des sciences.
@@ -63,9 +81,9 @@ We created **“Question pour un glaçon”**, a quiz on climate and polar-relat
 
 I also co-created **Antarctica 2.0°C**, a scientific and outreach expedition by sailboat from Marseille to Antarctica, with six students and two sailors on board.
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 2em 0;">
-  <img src="/images/equipe_antarctique_a2d.jpg" alt="A2D team" style="width: 400px; border-radius: 8px;">
-  <img src="/images/niels_vernadsky.jpeg" alt="Niels Vernadsky" style="width: 400px; border-radius: 8px;">
+<div class="photo-row">
+  <img src="/images/equipe_antarctique_a2d.jpg" alt="The Antarctica 2.0°C team">
+  <img src="/images/niels_vernadsky.jpeg" alt="Niels at Vernadsky station">
 </div>
 
 
@@ -79,9 +97,8 @@ We developed a large-scale [outreach and educational program](https://www.j2d.or
 
 <p>I had the chance to present the project alongside Lana Lenourry on <em>Epicurieux</em>, the science show hosted by Jamy Gourmaud:</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; margin: 1em 0;">
+<div class="video">
   <iframe src="https://www.youtube.com/embed/Y6065J56uI4?start=821"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen title="Antarctica 2.0°C - Epicurieux">
   </iframe>
@@ -98,19 +115,12 @@ We developed a large-scale [outreach and educational program](https://www.j2d.or
 
 
 
- <footer class="social-footer">
-    <div class="social-icons">
-        <a href="mailto:niels.dutrievoz@lsce.ipsl.fr" target="_blank">
-            <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email">
-        </a>
-        <a href="https://www.linkedin.com/in/niels-dutrievoz/" target="_blank">
-            <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn">
-        </a>
-        <a href="https://bsky.app/profile/nielsdutrievoz.bsky.social" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" width="50" height="50">
-        </a>
-        <a href="https://orcid.org/0000-0002-8133-5616" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="50" height="50">
-        </a>
-    </div>
-</footer>
+---
+
+## 🏛️ Science & society
+
+- **UN Ocean Conference (UNOC), Nice, 2025**: presented LSCE's polar research at the Cryosphere Pavilion.
+- **Early-career group of the [Centre Climat-Société](https://www.ipsl.fr/centre-climat-societe/)** (2024–2025): co-organised a seminar series on the forms of engagement available to researchers, and co-led a session on science communication on social media.
+- **LSCE working group on the laboratory's environmental footprint** (2022–2025).
+
+{% include footer.html %}

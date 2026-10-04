@@ -4,15 +4,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-include: ["assets/css/style.css"]
-
 title: "Niels Dutrievoz"
-description: "PhD Student in polar climate modelling"
+description: "Postdoctoral researcher in polar climate modelling"
 
 header_image: "images/banner.jpeg"
-
-include:
-  - _includes/mathjax.html
-
-
-

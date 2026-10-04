@@ -1,0 +1,5 @@
+<nav class="site-nav">
+  {% assign links = "Home:/,Research:/research,Publications:/publications,Outreach:/outreach,Teaching:/teaching,Contact:/contact" | split: "," %}
+  {% for l in links %}{% assign p = l | split: ":" %}{% assign cur = page.url | remove: ".html" %}{% if cur == "/index" %}{% assign cur = "/" %}{% endif %}
+  <a href="{{ p[1] }}"{% if cur == p[1] %} class="active" aria-current="page"{% endif %}>{{ p[0] }}</a>{% endfor %}
+</nav>

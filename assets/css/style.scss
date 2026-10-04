@@ -1,3 +1,6 @@
+---
+---
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 
@@ -845,7 +848,6 @@ a:hover {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    transform: scale(1.1); /* Zoom à 110% */
 }
 
 .about-container {
@@ -866,32 +868,177 @@ a:hover {
 }
 
 
+/* ---------- Navigation ---------- */
+.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem;
+    margin: 0 0 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e5e9ec;
+}
+
+.site-nav a {
+    padding: 0.4rem 0.9rem;
+    border-radius: 999px;
+    color: #1e6bb8;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.site-nav a:hover {
+    background: #eef4fa;
+    text-decoration: none;
+}
+
+.site-nav a.active {
+    background: #1e6bb8;
+    color: #fff;
+}
+
+/* ---------- About block (home) ---------- */
+.about {
+    display: flow-root;
+}
+
+.about img {
+    float: left;
+    width: 240px;
+    margin: 0.3rem 2rem 1rem 0;
+    border-radius: 12px;
+}
+
+@media screen and (max-width: 42em) {
+    .about img {
+        float: none;
+        display: block;
+        width: 70%;
+        max-width: 260px;
+        margin: 0 auto 1rem;
+    }
+}
+
+/* ---------- Buttons ---------- */
+.btn-row {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+a.btn {
+    display: inline-block;
+    margin: 0.25rem;
+    padding: 0.6rem 1.4rem;
+    border-radius: 6px;
+    background: #1e6bb8;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s ease;
+}
+
+a.btn:hover {
+    background: #155799;
+    text-decoration: none;
+}
+
+a.btn.btn-outline {
+    background: transparent;
+    color: #1e6bb8;
+    border: 2px solid #1e6bb8;
+}
+
+/* ---------- Publications ---------- */
+.profile-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.profile-links img {
+    height: 28px;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.05rem 0.5rem;
+    border-radius: 4px;
+    background: #e8f1fa;
+    color: #1e6bb8;
+    font-size: 0.75em;
+    font-weight: 700;
+    vertical-align: middle;
+}
+
+/* ---------- Media ---------- */
+.video {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.photo-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.photo-row img {
+    width: 400px;
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.main-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+details.older-news summary {
+    cursor: pointer;
+    color: #1e6bb8;
+    font-weight: 600;
+    margin: 1rem 0;
+}
+
+/* ---------- Footer ---------- */
 .social-footer {
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 20px;
-    background-color: transparent; /* Couleur de fond */
-    position: relative;
-    bottom: 0;
-    width: 100%;
+    padding: 2rem 0 1rem;
+    margin-top: 3rem;
+    border-top: 1px solid #e5e9ec;
 }
 
 .social-icons {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    gap: 30px; /* Espacement entre les icônes */
+    gap: 1.6rem;
 }
 
-.social-icons a img {
-    width: 40px; /* Taille uniforme des icônes */
-    height: 40px;
-    transition: transform 0.3s ease;
+.social-icons a img,
+.social-icons a svg {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.2s ease;
 }
 
-.social-icons a img:hover {
-    transform: scale(1.2); /* Effet de zoom au survol */
+.social-icons a:hover img,
+.social-icons a:hover svg {
+    transform: scale(1.15);
 }
-
-
-
