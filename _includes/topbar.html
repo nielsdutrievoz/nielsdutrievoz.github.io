@@ -4,7 +4,7 @@
 {% if page.ref == "home" or page.ref == nil %}{% assign switch = other %}{% else %}{% assign switch = other | append: page.ref %}{% endif %}
 <header class="topbar" id="topbar">
   <a class="brand" href="{{ prefix }}">
-    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M11.2 1C9 1 7.6 2.7 7.6 4.9c0 .7.1 1.3.4 1.9C6.4 8.9 5.5 11.9 5.5 15.1c0 2.4.6 4.5 1.7 5.9L5.4 23h4.5l.7-.8h1.9l.7.8h4.4l-1.8-2c1.1-1.4 1.7-3.5 1.7-5.9 0-3.2-.9-6.2-2.5-8.3.2-.6.3-1.2.3-1.9C15.3 2.7 13.6 1 11.2 1zm4.1 3.1 3.2 1.2-3.2.8z"/><path d="M6.2 9.6C4.6 11 3.6 13.4 3.4 16.2l2.3-1.6zM16.3 9.6c1.6 1.4 2.6 3.8 2.8 6.6l-2.3-1.6z"/></svg>
+    {% include logo.svg.html %}
     Niels Dutrievoz
   </a>
   <nav class="topnav" aria-label="Main">
