@@ -2,7 +2,7 @@
 title: "Outreach"
 heading: "Outreach"
 eyebrow: "Science communication"
-intro: "Passionate about science communication, I focus on making science accessible and engaging — especially through video. I've contributed to projects ranging from social media content to educational games and scientific expeditions."
+intro: "Passionate about science communication, I focus on making science accessible and engaging - especially through video. I've contributed to projects ranging from social media content to educational games and scientific expeditions."
 ref: outreach
 ---
 
@@ -12,9 +12,9 @@ ref: outreach
 
 <div class="media-split" markdown="1">
 <div markdown="1">
-In 2022, I co-founded **[Ordres de grandeur](https://ordres-de-grandeur.com/)** with Baptiste Arnaud and Arthur Gublin — a science communication project exploring the world through the lens of *orders of magnitude*. We create short, insightful videos on social media that combine real-world examples, striking numbers, and scientific storytelling.
+In 2022, I co-founded **[Ordres de grandeur](https://ordres-de-grandeur.com/)** with Baptiste Arnaud and Arthur Gublin - a science communication project exploring the world through the lens of *orders of magnitude*. We create short, insightful videos on social media that combine real-world examples, striking numbers, and scientific storytelling.
 
-Our goal is to spark curiosity, foster critical thinking, and provide useful perspectives on major issues — energy, health, climate, technology — by helping people see the difference between what's negligible and what really matters.
+Our goal is to spark curiosity, foster critical thinking, and provide useful perspectives on major issues - energy, health, climate, technology - by helping people see the difference between what's negligible and what really matters.
 
 <div class="stats"><span>100,000+ followers</span><span>26+ million views</span><span>Represented by <a href="https://intello.co/" target="_blank" rel="noopener">Intello</a></span></div>
 
@@ -60,7 +60,7 @@ I was also a guest on the radio show [*Fréquence Recherche*](https://www.radioc
 <div markdown="1">
 As part of my PhD, I've taken part in many science outreach events, including the *International Weather and Climate Forum* at the Académie du Climat and *Science Infuse* at the Cité des sciences.
 
-We created **“Question pour un glaçon”**, a quiz on climate and polar-related orders of magnitude — with a real piece of Greenland ice as a prize! We also designed a hands-on **escape game**, immersing participants in a polar research expedition in Antarctica.
+We created **“Question pour un glaçon”**, a quiz on climate and polar-related orders of magnitude - with a real piece of Greenland ice as a prize! We also designed a hands-on **escape game**, immersing participants in a polar research expedition in Antarctica.
 </div>
 <img src="/images/forum_meteo_climat.jpeg" alt="International Weather and Climate Forum">
 </div>

@@ -2,7 +2,7 @@
 title: "Research"
 heading: "Research"
 eyebrow: "Polar atmospheric water cycle"
-intro: "Water isotopes as tracers of the Antarctic atmospheric water cycle, from boundary-layer processes at the snow surface to the large-scale dynamics that bring moisture to the ice sheet."
+intro: "I study water isotopes as tracers of the Antarctic atmospheric water cycle, from boundary-layer processes at the snow surface to the large-scale dynamics that bring moisture to the ice sheet."
 ref: research
 ---
 
@@ -21,7 +21,7 @@ ref: research
 </div>
 <div markdown="1">
 ### Tools & methods
-- Global model LMDZ, regional model CRYOWRF
+- Global atmospheric model LMDZ
 - Water stable isotope observations
 - Reanalyses and climate model outputs
 </div>
@@ -70,7 +70,7 @@ Since January 2026, as a postdoctoral researcher at LSCE with [Mathieu Casado](h
 
 My PhD, supervised by [Cécile Agosta](https://cecileagosta.github.io/) at LSCE, was carried out within the **[AWACA](https://awaca.ipsl.fr/)** ERC Synergy project (Atmospheric WAter Cycle over Antarctica).
 
-### Study 1 — Antarctic water stable isotopes in the global atmospheric model LMDZ6: from climatology to boundary layer processes
+### Study 1 - Antarctic water stable isotopes in the global atmospheric model LMDZ6: from climatology to boundary layer processes
 
 My first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparison with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapour isotopes** at two East Antarctic stations: **Dumont d'Urville** (coastal) and **Concordia** (inland). This evaluation examines **spatial, seasonal, and diurnal isotopic variations** in the model.
 
@@ -85,7 +85,7 @@ These results suggest that **further improvements in LMDZ6iso** should prioritis
 
 <hr>
 
-### Study 2 — Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica
+### Study 2 - Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica
 
 My second study focuses on **analysing the isotopic anomaly in water vapour** induced by the passage of an **atmospheric river over Concordia** in December 2018. The isotopic composition of water vapour observed during this event can be explained by two key processes:
 - the isotopic signature of long-range water transport;
@@ -99,7 +99,7 @@ These results highlight that the isotopic signal recorded in water vapour during
 
 <hr>
 
-### Study 3 — Improving isotopic surface fluxes over snow in LMDZ6iso: evaluation at Dome C, East Antarctica (submitted)
+### Study 3 - Improving isotopic surface fluxes over snow in LMDZ6iso: evaluation at Dome C, East Antarctica (submitted)
 
 Building on the first two studies, my third study targets the **representation of isotopic surface fluxes over snow** in LMDZ6iso. In most isotope-enabled models, **sublimation over iced surfaces is treated as non-fractionating**, and surface condensation is parametrized like cloud condensation.
 

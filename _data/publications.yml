@@ -15,7 +15,7 @@
     - { label: "theses.fr", url: "https://theses.fr/2025UPASJ023" }
   doi: "10.70675/6349b444z206bz41cbz9916z387e2f6d8eb5"
 
-- status: submitted
+- status: preprint
   year: 2026
   first_author: true
   home: true

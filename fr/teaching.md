@@ -21,9 +21,14 @@ Ce cours aborde le système climatique terrestre de manière interdisciplinaire 
 </section>
 
 <section class="panel" markdown="1">
+<div class="media-split reverse" markdown="1">
+<img class="course-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_ENSTA_Paris.jpg" alt="Logo de l'ENSTA Paris">
+<div markdown="1">
 ## Analyse systémique de l'Anthropocène
 
 Une enquête interdisciplinaire sur les racines de l'Anthropocène, à travers l'énergie, le climat, l'écologie, la modélisation systémique, l'économie et la philosophie des sciences et des techniques. Le cours s'appuie sur des publications scientifiques et des rapports publics pour construire une compréhension d'ensemble de ces dynamiques.
 
 <a class="btn ghost" href="https://ecampus.paris-saclay.fr/course/info.php?id=95198" target="_blank" rel="noopener">Page du cours</a>
+</div>
+</div>
 </section>

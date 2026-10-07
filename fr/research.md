@@ -3,7 +3,7 @@ title: "Recherche"
 description: "Chercheur postdoctoral en modélisation du climat polaire"
 heading: "Recherche"
 eyebrow: "Cycle de l'eau en régions polaires"
-intro: "Les isotopes de l'eau comme traceurs du cycle atmosphérique de l'eau en Antarctique, des processus de couche limite à la surface de la neige jusqu'à la dynamique de grande échelle qui apporte l'humidité sur la calotte."
+intro: "Je m'intéresse aux isotopes de l'eau comme traceurs du cycle atmosphérique de l'eau en Antarctique, des processus de couche limite à la surface de la neige jusqu'à la dynamique de grande échelle qui apporte l'humidité sur la calotte."
 ref: research
 ---
 
@@ -22,7 +22,7 @@ ref: research
 </div>
 <div markdown="1">
 ### Outils et méthodes
-- Modèle global LMDZ, modèle régional CRYOWRF
+- Modèle atmosphérique global LMDZ
 - Observations des isotopes stables de l'eau
 - Réanalyses et sorties de modèles de climat
 </div>
@@ -71,7 +71,7 @@ Depuis janvier 2026, en postdoc au LSCE avec [Mathieu Casado](https://mathieucas
 
 Ma thèse, dirigée par [Cécile Agosta](https://cecileagosta.github.io/) au LSCE, s'est inscrite dans le projet ERC Synergy **[AWACA](https://awaca.ipsl.fr/)** (*Atmospheric WAter Cycle over Antarctica*).
 
-### Étude 1 — Les isotopes stables de l'eau en Antarctique dans le modèle atmosphérique global LMDZ6, de la climatologie aux processus de couche limite
+### Étude 1 - Les isotopes stables de l'eau en Antarctique dans le modèle atmosphérique global LMDZ6, de la climatologie aux processus de couche limite
 
 Ma première étude a consisté à **évaluer le modèle atmosphérique global LMDZ6iso** en le comparant aux **isotopes de la neige de surface sur l'ensemble de l'Antarctique**, ainsi qu'aux **isotopes des précipitations journalières et de la vapeur d'eau mesurés en continu** dans deux stations d'Antarctique de l'Est : **Dumont d'Urville** (sur la côte) et **Concordia** (à l'intérieur du continent). Cette évaluation porte sur les **variations spatiales, saisonnières et diurnes des isotopes** dans le modèle.
 
@@ -86,7 +86,7 @@ Ces résultats indiquent que les **prochaines améliorations de LMDZ6iso** doive
 
 <hr>
 
-### Étude 2 — Anomalies isotopiques de la vapeur d'eau pendant une rivière atmosphérique au Dôme C, en Antarctique de l'Est
+### Étude 2 - Anomalies isotopiques de la vapeur d'eau pendant une rivière atmosphérique au Dôme C, en Antarctique de l'Est
 
 Ma deuxième étude **analyse l'anomalie isotopique de la vapeur d'eau** provoquée par le passage d'une **rivière atmosphérique au-dessus de Concordia** en décembre 2018. La composition isotopique de la vapeur observée pendant cet événement s'explique par deux processus principaux :
 - la signature isotopique du transport d'humidité sur de longues distances ;
@@ -100,7 +100,7 @@ Ces résultats montrent que le signal isotopique enregistré dans la vapeur d'ea
 
 <hr>
 
-### Étude 3 — Améliorer les flux isotopiques au-dessus de la neige dans LMDZ6iso : évaluation au Dôme C, en Antarctique de l'Est (soumis)
+### Étude 3 - Améliorer les flux isotopiques au-dessus de la neige dans LMDZ6iso : évaluation au Dôme C, en Antarctique de l'Est (soumis)
 
 Dans la continuité des deux premières études, ma troisième étude porte sur la **représentation des flux isotopiques de surface au-dessus de la neige** dans LMDZ6iso. Dans la plupart des modèles isotopiques, **la sublimation au-dessus des surfaces glacées est considérée comme non fractionnante**, et la condensation en surface est paramétrée comme la condensation nuageuse.
 

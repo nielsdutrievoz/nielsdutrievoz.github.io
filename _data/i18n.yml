@@ -1,6 +1,7 @@
 en:
   tagline: "Postdoctoral researcher in polar climate modelling"
   nav:
+    - { ref: home, label: "Home" }
     - { ref: research, label: "Research" }
     - { ref: publications, label: "Publications" }
     - { ref: outreach, label: "Outreach" }
@@ -30,6 +31,7 @@ en:
 fr:
   tagline: "Chercheur postdoctoral en modélisation du climat polaire"
   nav:
+    - { ref: home, label: "Accueil" }
     - { ref: research, label: "Recherche" }
     - { ref: publications, label: "Publications" }
     - { ref: outreach, label: "Médiation" }

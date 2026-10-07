@@ -9,9 +9,9 @@ ref: publications
 
 <section class="panel" markdown="1">
 <div class="profile-links">
-  <a class="btn" href="https://scholar.google.com/citations?user=GvFHtIwAAAAJ&hl=fr" target="_blank" rel="noopener">Google Scholar</a>
-  <a class="btn ghost" href="https://orcid.org/0000-0002-8133-5616" target="_blank" rel="noopener">ORCID</a>
-  <a class="btn ghost" href="https://www.researchgate.net/profile/Niels-Dutrievoz" target="_blank" rel="noopener">ResearchGate</a>
+  <a class="btn ghost small" href="https://scholar.google.com/citations?user=GvFHtIwAAAAJ&hl=fr" target="_blank" rel="noopener">Google Scholar</a>
+  <a class="btn ghost small" href="https://orcid.org/0000-0002-8133-5616" target="_blank" rel="noopener">ORCID</a>
+  <a class="btn ghost small" href="https://www.researchgate.net/profile/Niels-Dutrievoz" target="_blank" rel="noopener">ResearchGate</a>
 </div>
 </section>
 

@@ -114,7 +114,7 @@ h2.section-title { font-family: var(--head); font-weight: 300; font-size: 2rem; 
 .prose h3 { font-family: var(--head); font-weight: 400; font-size: 1.12rem; letter-spacing: -.01em; line-height: 1.35; margin: 28px 0 10px; }
 .prose h2 + h3 { margin-top: 8px; }
 .prose h4 { font-family: var(--head); font-weight: 600; font-size: .95rem; margin: 24px 0 8px; }
-.prose p { margin: 0 0 14px; }
+.prose p { margin: 0 0 14px; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 .prose ul { padding-left: 1.2em; margin: 0 0 14px; }
 .prose li { margin-bottom: 6px; }
 .prose li::marker { color: var(--accent); }
@@ -128,7 +128,7 @@ h2.section-title { font-family: var(--head); font-weight: 300; font-size: 2rem; 
 .prose .panel > :last-child { margin-bottom: 0; }
 .prose .panel > :first-child { margin-top: 0; }
 
-.keywords { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 14px; padding: 0; list-style: none; }
+.keywords { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; margin: 0 0 14px; padding: 0; list-style: none; }
 .prose .keywords li { margin: 0; background: var(--accent-soft); color: var(--accent-dark); font-size: .88rem; padding: 4px 12px; border-radius: 999px; }
 .facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
 .facts h3 { margin-top: 0 !important; font-size: .78rem !important; font-weight: 400 !important; letter-spacing: .12em !important; text-transform: uppercase; color: var(--muted); }
@@ -139,6 +139,7 @@ h2.section-title { font-family: var(--head); font-weight: 300; font-size: 2rem; 
 .btn:hover { background: var(--accent-dark); }
 .btn.ghost { background: transparent; color: var(--accent); }
 .btn.ghost:hover { background: var(--accent-soft); }
+.btn.small { padding: 6px 13px; font-size: .82rem; }
 .btn-row { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 22px 0 4px; }
 .btn-row.left { justify-content: flex-start; }
 
@@ -244,3 +245,7 @@ details.older summary { cursor: pointer; color: var(--accent); font-family: var(
 /* Year already given by the group heading */
 .pub-year ~ .pub { grid-template-columns: 1fr auto; }
 .pub-year ~ .pub .yr { display: none; }
+.prose ul.keywords { padding-left: 0; }
+.brand svg { width: 22px; height: 22px; }
+.media-split.reverse { grid-template-columns: 140px 1fr; }
+@media (max-width: 700px) { .media-split.reverse { grid-template-columns: 1fr; } }
