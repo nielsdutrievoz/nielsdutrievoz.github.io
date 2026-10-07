@@ -32,6 +32,11 @@ ref: publications
   Submitted to *Journal of Advances in Modeling Earth Systems*. Preprint: *ESS Open Archive*, 2026.  
   [DOI: 10.22541/essoar.15002511/v1](https://doi.org/10.22541/essoar.15002511/v1)
 
+- Raillard, L., Borella, A., Rivière, G., **Dutrievoz, N.**, Wimmer, M., Musat, I., & Vignon, É.  
+  *Advancing the microphysical and subgrid treatment of precipitation in the LMDZ AGCM: parametrization development and first applications in polar contexts.*  
+  *EGUsphere* (preprint), 2026.  
+  [DOI: 10.5194/egusphere-2026-5432](https://doi.org/10.5194/egusphere-2026-5432)
+
 - Samin, E., Landais, A., Fourré, E., Casado, M., Ooms, A., **Dutrievoz, N.**, Agosta, C., Masson-Delmotte, V., Combacal, T., Gautier, E., & Minster, B.  
   *Post-deposition processes affecting water stable isotope records at Little Dome C, Antarctica: new records from two firn cores and virtual firn core modelling.*  
   *EGUsphere* (preprint), 2026.  
