@@ -1,0 +1,16 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.i18n[lang] %}
+{% assign p = include.p %}
+<article class="pub{% if include.compact %} compact{% endif %}">
+  <div class="yr">{{ p.year }}</div>
+  <div>
+    <h4><a href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">{{ p.title }}</a></h4>
+    <div class="au">{% if include.compact and p.short %}{{ p.short | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% else %}{{ p.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}</div>
+    <div class="jr"><em>{{ p.venue }}</em>{% if p.details %}, {{ p.details }}{% endif %}{% if p.note %} · {{ p.note[lang] | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}</div>
+    {% unless include.compact %}<div class="links"><a href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">DOI: {{ p.doi }}</a>{% for l in p.links %} · <a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}</div>{% endunless %}
+  </div>
+  <div class="side">
+    <span class="status {{ p.status }}">{{ t.status[p.status] }}</span>
+    {% if p.first_author and p.status != "thesis" and include.compact != true %}<span class="tag">{{ t.first_author }}</span>{% endif %}
+  </div>
+</article>

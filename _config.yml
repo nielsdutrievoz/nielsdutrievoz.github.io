@@ -1,19 +1,24 @@
-remote_theme: pages-themes/cayman@v0.2.0
+title: "Niels Dutrievoz"
+description: "Postdoctoral researcher in polar climate modelling"
+url: "https://nielsdutrievoz.github.io"
+lang: en
+
 plugins:
-  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
 
-title: "Niels Dutrievoz"
-description: "Postdoctoral researcher in polar climate modelling"
-
-header_image: "images/banner.jpeg"
-
-url: "https://nielsdutrievoz.github.io"
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 defaults:
   - scope:
       path: ""
     values:
-      layout: default
+      layout: page
       lang: en
+  - scope:
+      path: "fr"
+    values:
+      lang: fr

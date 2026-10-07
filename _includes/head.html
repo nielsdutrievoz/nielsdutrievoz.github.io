@@ -1,0 +1,35 @@
+{% assign lang = page.lang | default: "en" %}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+{% if page.ref %}
+{% if page.ref == "home" %}{% assign en_url = "/" %}{% assign fr_url = "/fr/" %}{% else %}{% assign en_url = "/" | append: page.ref %}{% assign fr_url = "/fr/" | append: page.ref %}{% endif %}
+<link rel="alternate" hreflang="en" href="{{ site.url }}{{ en_url }}">
+<link rel="alternate" hreflang="fr" href="{{ site.url }}{{ fr_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ en_url }}">
+{% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Niels Dutrievoz",
+  "jobTitle": "Postdoctoral researcher",
+  "affiliation": { "@type": "Organization", "name": "Laboratoire des Sciences du Climat et de l'Environnement (LSCE)", "url": "https://www.lsce.ipsl.fr/" },
+  "url": "https://nielsdutrievoz.github.io/",
+  "image": "https://nielsdutrievoz.github.io/images/profile.jpg",
+  "sameAs": [
+    "https://orcid.org/0000-0002-8133-5616",
+    "https://scholar.google.com/citations?user=GvFHtIwAAAAJ",
+    "https://www.researchgate.net/profile/Niels-Dutrievoz",
+    "https://www.linkedin.com/in/niels-dutrievoz/",
+    "https://bsky.app/profile/nielsdutrievoz.bsky.social"
+  ]
+}
+</script>

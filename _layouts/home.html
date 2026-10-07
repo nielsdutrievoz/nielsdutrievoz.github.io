@@ -1,0 +1,77 @@
+---
+layout: default
+---
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.i18n[lang] %}
+{% if lang == "fr" %}{% assign prefix = "/fr/" %}{% else %}{% assign prefix = "/" %}{% endif %}
+<div class="hero">
+  <div class="hero-inner">
+    <div class="portrait">
+      <img src="/images/profile.jpg" alt="Niels Dutrievoz">
+      <div class="role">{{ t.role }}</div>
+      <div class="icons">{% include social.html %}</div>
+    </div>
+    <div>
+      <h1>Niels Dutrievoz</h1>
+      <p class="lead">{{ page.lead | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+      <a class="next" href="{{ prefix }}research"><i></i>{{ t.next }}</a>
+    </div>
+  </div>
+  <a class="scroll" href="#content" aria-label="Scroll"><svg viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></a>
+</div>
+
+<main id="content" class="wrap">
+  <div class="cards">
+    {% for c in page.cards %}
+    <a class="card" href="{{ prefix }}{{ c.ref }}"><span class="k">0{{ forloop.index }}</span><h3>{{ c.title }}</h3><p>{{ c.text }}</p></a>
+    {% endfor %}
+  </div>
+
+  <section>
+    <div class="panel">
+      <p class="eyebrow">{{ t.latest_pubs }} <a href="{{ prefix }}publications">{{ t.all_pubs }} →</a></p>
+      {% assign latest = site.data.publications | where: "home", true %}
+      {% for p in latest %}{% include pub.html p=p compact=true %}{% endfor %}
+    </div>
+  </section>
+
+  <section>
+    <div class="panel feature">
+      <img src="/images/livre_de_la_fourmi_a_la_galaxie.jpg" alt="De la fourmi à la galaxie (Vuibert, 2026)">
+      <div>
+        <p class="eyebrow">{{ page.book.eyebrow }}</p>
+        <h3>De la fourmi à la galaxie</h3>
+        <p>{{ page.book.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+        <a class="btn" href="https://tidd.ly/4xT9p01" target="_blank" rel="noopener">{{ page.book.order }}</a>
+        <a class="btn ghost" href="{{ prefix }}outreach">{{ page.book.more }}</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="news">
+    <div class="panel prose">
+{{ content }}
+    </div>
+  </section>
+
+  <section>
+    <p class="eyebrow">{{ t.curriculum }}</p>
+    <h2 class="section-title">{{ t.path }}</h2>
+    <div class="timeline">
+      {% for e in site.data.cv %}
+      <div class="tl{% if e.now %} now{% endif %}"><div class="d">{{ e.dates }}</div><div class="dot"></div><div><h4>{{ e.title[lang] }}</h4><div class="w">{{ e.where }}</div><div class="p">{{ e.place[lang] }}</div></div></div>
+      {% endfor %}
+    </div>
+    <div class="btn-row left"><a class="btn ghost" href="/CV_ND_2026_english.pdf" download>{{ page.cv_label }}</a></div>
+  </section>
+
+  <section id="contact">
+    <div class="panel">
+      <p class="eyebrow">- {{ t.contact }} -</p>
+      <div class="contact">
+        <div><div class="lbl">{{ t.address }}</div><address>{{ page.address }}</address></div>
+        <div><div class="lbl">{{ t.email }}</div><a class="mail" href="mailto:niels.dutrievoz@proton.me">niels.dutrievoz@proton.me</a></div>
+      </div>
+    </div>
+  </section>
+</main>
