@@ -1,5 +1,15 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign refs = "home,research,publications,outreach,teaching,contact" | split: "," %}
+{% if lang == "fr" %}
+  {% assign labels = "Accueil,Recherche,Publications,Médiation,Enseignement,Contact" | split: "," %}
+  {% assign prefix = "/fr/" %}{% assign other = "/" %}
+{% else %}
+  {% assign labels = "Home,Research,Publications,Outreach,Teaching,Contact" | split: "," %}
+  {% assign prefix = "/" %}{% assign other = "/fr/" %}
+{% endif %}
 <nav class="site-nav">
-  {% assign links = "Home:/,Research:/research,Publications:/publications,Outreach:/outreach,Teaching:/teaching,Contact:/contact" | split: "," %}
-  {% for l in links %}{% assign p = l | split: ":" %}{% assign cur = page.url | remove: ".html" %}{% if cur == "/index" %}{% assign cur = "/" %}{% endif %}
-  <a href="{{ p[1] }}"{% if cur == p[1] %} class="active" aria-current="page"{% endif %}>{{ p[0] }}</a>{% endfor %}
+  {% for ref in refs %}{% if ref == "home" %}{% assign url = prefix %}{% else %}{% assign url = prefix | append: ref %}{% endif %}
+  <a href="{{ url }}"{% if page.ref == ref %} class="active" aria-current="page"{% endif %}>{{ labels[forloop.index0] }}</a>{% endfor %}
+  {% if page.ref == "home" %}{% assign switch = other %}{% else %}{% assign switch = other | append: page.ref %}{% endif %}
+  <a class="lang-switch" href="{{ switch }}" hreflang="{% if lang == 'fr' %}en{% else %}fr{% endif %}" title="{% if lang == 'fr' %}English version{% else %}Version française{% endif %}">{% if lang == "fr" %}EN{% else %}FR{% endif %}</a>
 </nav>

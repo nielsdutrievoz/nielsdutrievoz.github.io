@@ -8,3 +8,12 @@ title: "Niels Dutrievoz"
 description: "Postdoctoral researcher in polar climate modelling"
 
 header_image: "images/banner.jpeg"
+
+url: "https://nielsdutrievoz.github.io"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      lang: en

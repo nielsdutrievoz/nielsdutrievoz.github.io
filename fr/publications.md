@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Niels Dutrievoz
+description: "Chercheur postdoctoral en modélisation du climat polaire"
+lang: fr
 ref: publications
 ---
 
@@ -9,41 +11,41 @@ ref: publications
 # Publications
 
 <div class="profile-links">
-  <a href="https://scholar.google.com/citations?user=GvFHtIwAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.com/citations?user=GvFHtIwAAAAJ&hl=fr" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0000-0002-8133-5616" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://www.researchgate.net/profile/Niels-Dutrievoz" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 </div>
 
 ---
 
-## PhD thesis
+## Thèse de doctorat
 
 - **Dutrievoz, N.**  
   *Water vapour isotopes in Antarctica as tracers of boundary layer processes and large-scale dynamics.*  
-  PhD thesis, Université Paris-Saclay, 2025.  
+  Thèse de doctorat, Université Paris-Saclay, 2025.  
   [theses.fr](https://theses.fr/2025UPASJ023) • [DOI: 10.70675/6349b444z206bz41cbz9916z387e2f6d8eb5](https://doi.org/10.70675/6349b444z206bz41cbz9916z387e2f6d8eb5)
 
 ---
 
-## Submitted & preprints
+## Articles soumis et préprints
 
-- <span class="tag">First author</span> **Dutrievoz, N.**, Agosta, C., Vignon, É., Wahl, S., Casado, M., Ooms, A., Nguyen, S., Landais, A., Fourré, E., Minster, B., & Prié, F.  
+- <span class="tag">Premier auteur</span> **Dutrievoz, N.**, Agosta, C., Vignon, É., Wahl, S., Casado, M., Ooms, A., Nguyen, S., Landais, A., Fourré, E., Minster, B., & Prié, F.  
   *Improving isotopic surface fluxes over snow in LMDZ6iso: evaluation at Dome C, East Antarctica.*  
-  Submitted to *Journal of Advances in Modeling Earth Systems*. Preprint: *ESS Open Archive*, 2026.  
+  Soumis à *Journal of Advances in Modeling Earth Systems*. Préprint : *ESS Open Archive*, 2026.  
   [DOI: 10.22541/essoar.15002511/v1](https://doi.org/10.22541/essoar.15002511/v1)
 
 - Samin, E., Landais, A., Fourré, E., Casado, M., Ooms, A., **Dutrievoz, N.**, Agosta, C., Masson-Delmotte, V., Combacal, T., Gautier, E., & Minster, B.  
   *Post-deposition processes affecting water stable isotope records at Little Dome C, Antarctica: new records from two firn cores and virtual firn core modelling.*  
-  *EGUsphere* (preprint), 2026.  
+  *EGUsphere* (préprint), 2026.  
   [DOI: 10.5194/egusphere-2026-871](https://doi.org/10.5194/egusphere-2026-871)
 
 ---
 
-## Peer-reviewed articles
+## Articles publiés (revues à comité de lecture)
 
 ### 2026
 
-- <span class="tag">First author</span> **Dutrievoz, N.**, Agosta, C., Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy-Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., & Prié, F.  
+- <span class="tag">Premier auteur</span> **Dutrievoz, N.**, Agosta, C., Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy-Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., & Prié, F.  
   *Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica.*  
   *The Cryosphere*, 20, 1025–1046, 2026.  
   [DOI: 10.5194/tc-20-1025-2026](https://doi.org/10.5194/tc-20-1025-2026)
@@ -75,7 +77,7 @@ ref: publications
 
 ### 2025
 
-- <span class="tag">First author</span> **Dutrievoz, N.**, Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F.  
+- <span class="tag">Premier auteur</span> **Dutrievoz, N.**, Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F.  
   *Antarctic water stable isotopes in the global atmospheric model LMDZ6: from climatology to boundary layer processes.*  
   *Journal of Geophysical Research: Atmospheres*, 130, e2024JD042073, 2025.  
   [DOI: 10.1029/2024JD042073](https://doi.org/10.1029/2024JD042073)
@@ -108,32 +110,32 @@ ref: publications
 
 ---
 
-## Open data & code
+## Données et code ouverts
 
-All model outputs and analysis code from my PhD are openly archived on Zenodo.
+Toutes les sorties de modèle et tous les codes d'analyse de ma thèse sont archivés en accès libre sur Zenodo.
 
-- **LMDZ6iso global climatology over Antarctica (1979–2024)**, monthly and daily outputs. [Data](https://doi.org/10.5281/zenodo.12949168) • [Code](https://doi.org/10.5281/zenodo.12939614)
-- **LMDZiso hourly outputs, December 2018** (atmospheric river at Dome C). [Data](https://doi.org/10.5281/zenodo.15481580) • [Code](https://doi.org/10.5281/zenodo.15481977)
-- **ICOLMDZiso hourly outputs, December 2018** (new isotopic surface flux parametrisation). [Data](https://doi.org/10.5281/zenodo.18045636) • [Code](https://doi.org/10.5281/zenodo.18045446)
+- **Climatologie globale LMDZ6iso sur l'Antarctique (1979–2024)**, sorties mensuelles et journalières. [Données](https://doi.org/10.5281/zenodo.12949168) • [Code](https://doi.org/10.5281/zenodo.12939614)
+- **Sorties horaires LMDZiso, décembre 2018** (rivière atmosphérique au Dôme C). [Données](https://doi.org/10.5281/zenodo.15481580) • [Code](https://doi.org/10.5281/zenodo.15481977)
+- **Sorties horaires ICOLMDZiso, décembre 2018** (nouvelle paramétrisation des flux isotopiques de surface). [Données](https://doi.org/10.5281/zenodo.18045636) • [Code](https://doi.org/10.5281/zenodo.18045446)
 
 ---
 
-## Talks
+## Communications orales et posters
 
-**International conferences**
-- 2025 – EGU General Assembly, Vienna, Austria (oral)
-- 2024 – EGU General Assembly, Vienna, Austria (poster)
-- 2023 – IUGG General Assembly, Berlin, Germany (oral and poster)
-- 2022 – International Atmospheric Rivers Conference (IARC), San Diego, USA (oral)
+**Conférences internationales**
+- 2025 – EGU General Assembly, Vienne, Autriche (oral)
+- 2024 – EGU General Assembly, Vienne, Autriche (poster)
+- 2023 – IUGG General Assembly, Berlin, Allemagne (oral et poster)
+- 2022 – Conférence internationale sur les rivières atmosphériques (IARC), San Diego, États-Unis (oral)
 
-**International workshops**
-- 2025 – ISOSAM workshop (water isotopes), Bergen, Norway (oral)
-- 2025 – AARG workshop (Antarctic atmosphere), Grenoble, France (oral)
-- 2024 – SNOWISO workshop (water isotopes in snow), Ærøskøbing, Denmark (oral)
-- 2023 – SURFEIT workshop (Antarctic surface processes), Cambridge, UK (oral)
+**Ateliers internationaux**
+- 2025 – atelier ISOSAM (isotopes de l'eau), Bergen, Norvège (oral)
+- 2025 – atelier AARG (atmosphère antarctique), Grenoble (oral)
+- 2024 – atelier SNOWISO (isotopes de l'eau dans la neige), Ærøskøbing, Danemark (oral)
+- 2023 – atelier SURFEIT (processus de surface en Antarctique), Cambridge, Royaume-Uni (oral)
 
-**National conferences**
-- 2023 – CNFRA (French Committee on Arctic and Antarctic Research), Paris (two orals)
+**Conférences nationales**
+- 2023 – CNFRA (Comité national français des recherches arctiques et antarctiques), Paris (deux oraux)
 - 2022 – Climat Impacts, Paris (poster)
 
 {% include footer.html %}

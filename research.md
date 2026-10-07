@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Niels Dutrievoz
+ref: research
 ---
 
 {% include nav.html %}

@@ -892,6 +892,26 @@ a:hover {
     text-decoration: none;
 }
 
+.site-nav a.lang-switch {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 2.6rem;
+    height: 2.1rem;
+    padding: 0 0 1px;
+    margin-left: 0.6rem;
+    border: 2px solid #1e6bb8;
+    font-size: 0.85em;
+    line-height: 1;
+    align-self: center;
+}
+
+.site-nav a.lang-switch:hover {
+    background: #1e6bb8;
+    color: #fff;
+}
+
 .site-nav a.active {
     background: #1e6bb8;
     color: #fff;

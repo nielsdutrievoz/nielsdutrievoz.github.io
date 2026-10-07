@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Niels Dutrievoz
+ref: teaching
 ---
 
 {% include nav.html %}
