@@ -1,0 +1,135 @@
+# Single source for the publication lists (EN + FR pages and the home page).
+# status: published | preprint | submitted | thesis
+# first_author: true -> "First author" tag
+# home: true -> shown in "Latest publications" on the home page (keep 4)
+# short: compact author list used on the home page
+
+- status: thesis
+  year: 2025
+  first_author: true
+  authors: "**Dutrievoz, N.**"
+  title: "Water vapour isotopes in Antarctica as tracers of boundary layer processes and large-scale dynamics"
+  venue: "Université Paris-Saclay"
+  note: { en: "PhD thesis", fr: "Thèse de doctorat" }
+  links:
+    - { label: "theses.fr", url: "https://theses.fr/2025UPASJ023" }
+  doi: "10.70675/6349b444z206bz41cbz9916z387e2f6d8eb5"
+
+- status: submitted
+  year: 2026
+  first_author: true
+  home: true
+  authors: "**Dutrievoz, N.**, Agosta, C., Vignon, É., Wahl, S., Casado, M., Ooms, A., Nguyen, S., Landais, A., Fourré, E., Minster, B., & Prié, F."
+  short: "**Dutrievoz N.**, Agosta C., Vignon É., Wahl S., Casado M., et al."
+  title: "Improving isotopic surface fluxes over snow in LMDZ6iso: evaluation at Dome C, East Antarctica"
+  venue: "Journal of Advances in Modeling Earth Systems"
+  note: { en: "Submitted. Preprint: *ESS Open Archive*", fr: "Soumis. Préprint : *ESS Open Archive*" }
+  doi: "10.22541/essoar.15002511/v1"
+
+- status: preprint
+  year: 2026
+  home: true
+  authors: "Raillard, L., Borella, A., Rivière, G., **Dutrievoz, N.**, Wimmer, M., Musat, I., & Vignon, É."
+  short: "Raillard L., Borella A., Rivière G., **Dutrievoz N.**, Wimmer M., Musat I., Vignon É."
+  title: "Advancing the microphysical and subgrid treatment of precipitation in the LMDZ AGCM: parametrization development and first applications in polar contexts"
+  venue: "EGUsphere"
+  doi: "10.5194/egusphere-2026-5432"
+
+- status: preprint
+  year: 2026
+  authors: "Samin, E., Landais, A., Fourré, E., Casado, M., Ooms, A., **Dutrievoz, N.**, Agosta, C., Masson-Delmotte, V., Combacal, T., Gautier, E., & Minster, B."
+  title: "Post-deposition processes affecting water stable isotope records at Little Dome C, Antarctica: new records from two firn cores and virtual firn core modelling"
+  venue: "EGUsphere"
+  doi: "10.5194/egusphere-2026-871"
+
+- status: published
+  year: 2026
+  first_author: true
+  home: true
+  authors: "**Dutrievoz, N.**, Agosta, C., Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy-Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., & Prié, F."
+  short: "**Dutrievoz N.**, Agosta C., Davrinche C., Landais A., Nguyen S., et al."
+  title: "Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica"
+  venue: "The Cryosphere"
+  details: "20, 1025–1046"
+  doi: "10.5194/tc-20-1025-2026"
+
+- status: published
+  year: 2026
+  home: true
+  authors: "Casado, M., Bailey, A., Leroy-Dos Santos, C., Fourré, E., Favier, V., Agosta, C., **Dutrievoz, N.**, Kittel, C., Arnaud, L., Prié, F., Akers, P. D., Cauquoin, A., Werner, M., Janssen, L., Stenni, B., Dreossi, G., Spolaor, A., Petteni, A., Savarino, J., & Landais, A."
+  short: "Casado M., Bailey A., Leroy-Dos Santos C., …, **Dutrievoz N.**, …, Landais A."
+  title: "Water isotope–temperature relationship variability across Antarctica set by atmospheric circulation"
+  venue: "Nature Geoscience"
+  details: "19, 581–588"
+  doi: "10.1038/s41561-026-01961-y"
+
+- status: published
+  year: 2026
+  authors: "Lauwers, T., Fourré, E., **Dutrievoz, N.**, Agosta, C., Jossoud, O., Minster, B., Prié, F., Cattani, O., Masson-Delmotte, V., Casado, M., Genthon, C., & Landais, A."
+  title: "Combined and autonomous online measurement of water isotopes in snowflakes and atmospheric water vapor in East Antarctica"
+  venue: "Atmospheric Measurement Techniques"
+  details: "19, 4743–4758"
+  doi: "10.5194/amt-19-4743-2026"
+
+- status: published
+  year: 2026
+  authors: "Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., **Dutrievoz, N.**, Agosta, C., Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., & Stenni, B."
+  title: "Air mass origin and local impacts on Antarctic snow isotopic composition: an observation and modelling study"
+  venue: "The Cryosphere"
+  details: "20, 3581–3598"
+  doi: "10.5194/tc-20-3581-2026"
+
+- status: published
+  year: 2026
+  authors: "Tcheng, T., Fourré, E., Leroy-Dos Santos, C., Parrenin, F., Le Meur, E., Prié, F., Jossoud, O., Jacob, R., Minster, B., Magand, O., Agosta, C., **Dutrievoz, N.**, Favier, V., Baubant, L., Lassalle-Bernard, C., Casado, M., Werner, M., Cauquoin, A., Arnaud, L., Jourdain, B., Picard, G., Bouchet, M., & Landais, A."
+  title: "Multiproxy analyses of multiple shallow firn cores from coastal Adélie Land"
+  venue: "The Cryosphere"
+  details: "20, 1599–1618"
+  doi: "10.5194/tc-20-1599-2026"
+
+- status: published
+  year: 2026
+  authors: "Bong, H., LeGrande, A. N., Dee, S., Zhu, J., Cauquoin, A., Fiorella, R., Ding, Q., **Dutrievoz, N.**, Tanoue, M., Frazer, M., Sarkar, M., Agosta, C., Yoshimura, K., Werner, M., Okazaki, A., Risi, C., Steen-Larsen, H. C., Casado, M., Wahl, S., … & Schmidt, G. A."
+  title: "Water Isotope Model Intercomparison Project (WisoMIP): Present-day climate"
+  venue: "Journal of Geophysical Research: Atmospheres"
+  details: "131, e2025JD044985"
+  doi: "10.1029/2025JD044985"
+
+- status: published
+  year: 2025
+  first_author: true
+  authors: "**Dutrievoz, N.**, Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F."
+  title: "Antarctic water stable isotopes in the global atmospheric model LMDZ6: from climatology to boundary layer processes"
+  venue: "Journal of Geophysical Research: Atmospheres"
+  details: "130, e2024JD042073"
+  doi: "10.1029/2024JD042073"
+
+- status: published
+  year: 2025
+  authors: "Ollivier, I., Lauwers, T., **Dutrievoz, N.**, Agosta, C., Casado, M., Fourré, E., Genthon, C., Jossoud, O., Prié, F., Steen-Larsen, H. C., & Landais, A."
+  title: "Time series of the summertime atmospheric water vapour isotopic composition at Concordia station, East Antarctica"
+  venue: "Earth System Science Data"
+  details: "17, 5655–5674"
+  doi: "10.5194/essd-17-5655-2025"
+
+- status: published
+  year: 2024
+  authors: "Landais, A., Agosta, C., Vimeux, F., Magand, O., Solis, C., Cauquoin, A., **Dutrievoz, N.**, Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., & Werner, M."
+  title: "Abrupt excursions in water vapor isotopic variability at the Pointe Bénédicte observatory on Amsterdam Island"
+  venue: "Atmospheric Chemistry and Physics"
+  details: "24, 4611–4634"
+  doi: "10.5194/acp-24-4611-2024"
+
+- status: published
+  year: 2023
+  authors: "Gorodetskaya, I. V., Durán-Alarcón, C., González-Herrero, S., Clem, K. R., Zou, X., Rowe, P., Rodriguez Imazio, P., Campos, D., Leroy-Dos Santos, C., **Dutrievoz, N.**, Wille, J. D., Chyhareva, A., Favier, V., Blanchet, J., Pohl, B., Cordero, R. R., Park, S.-J., Colwell, S., Lazzara, M. A., Carrasco, J., Gulisano, A. M., Krakowska, S., Ralph, F. M., Dethinne, T., & Picard, G."
+  title: "Record-high Antarctic Peninsula temperatures and surface melt in February 2022: a compound event with an intense atmospheric river"
+  venue: "npj Climate and Atmospheric Science"
+  doi: "10.1038/s41612-023-00529-6"
+
+- status: published
+  year: 2021
+  authors: "Pohl, B., Favier, V., Wille, J., Udy, D. G., Vance, T. R., Pergaud, J., **Dutrievoz, N.**, Blanchet, J., Kittel, C., Amory, C., Krinner, G., & Codron, F."
+  title: "Relationship between weather regimes and atmospheric rivers in East Antarctica"
+  venue: "Journal of Geophysical Research: Atmospheres"
+  doi: "10.1029/2021JD035294"

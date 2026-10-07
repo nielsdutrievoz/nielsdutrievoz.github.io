@@ -1,0 +1,25 @@
+- dates: "2026 → 2028"
+  now: true
+  title: { en: "Postdoctoral researcher — Snow isotope modelling", fr: "Chercheur postdoctoral — Modélisation des isotopes de la neige" }
+  where: "WSL Institute for Snow and Avalanche Research SLF"
+  place: { en: "Davos, CH · from Nov. 2026", fr: "Davos, Suisse · à partir de nov. 2026" }
+- dates: "2026"
+  title: { en: "Postdoctoral researcher — Atmospheric rivers & ice cores", fr: "Chercheur postdoctoral — Rivières atmosphériques et carottes de glace" }
+  where: "LSCE–IPSL · Université Paris-Saclay"
+  place: { en: "Gif-sur-Yvette, FR", fr: "Gif-sur-Yvette" }
+- dates: "2022 → 2025"
+  title: { en: "PhD — Atmospheric sciences", fr: "Doctorat — Sciences de l'atmosphère" }
+  where: "LSCE–IPSL · Université Paris-Saclay"
+  place: { en: "Gif-sur-Yvette, FR", fr: "Gif-sur-Yvette" }
+- dates: "2021 → 2022"
+  title: { en: "Antarctica 2.0°C — Sailing expedition & fieldwork", fr: "Antarctique 2.0°C — Expédition à la voile et terrain" }
+  where: "Juste 2.0°C · ENS Paris-Saclay"
+  place: { en: "Marseille → Antarctic Peninsula", fr: "Marseille → péninsule Antarctique" }
+- dates: "2020 → 2021"
+  title: { en: "Master 2 — Geosciences", fr: "Master 2 — Géosciences" }
+  where: "École Normale Supérieure (Ulm)"
+  place: { en: "Paris, FR", fr: "Paris" }
+- dates: "2018 → 2022"
+  title: { en: "Normalien — Department of Biology", fr: "Normalien — Département de biologie" }
+  where: "École Normale Supérieure Paris-Saclay"
+  place: { en: "Gif-sur-Yvette, FR", fr: "Gif-sur-Yvette" }

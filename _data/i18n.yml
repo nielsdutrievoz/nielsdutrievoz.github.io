@@ -1,0 +1,58 @@
+en:
+  tagline: "Postdoctoral researcher in polar climate modelling"
+  nav:
+    - { ref: research, label: "Research" }
+    - { ref: publications, label: "Publications" }
+    - { ref: outreach, label: "Outreach" }
+    - { ref: teaching, label: "Teaching" }
+    - { ref: contact, label: "Contact" }
+  skip: "Skip to content"
+  menu: "Menu"
+  other_lang: "Version française"
+  role: "Postdoc · LSCE–IPSL"
+  next: "From Nov. 2026 · SLF, Davos (Switzerland)"
+  latest_pubs: "Latest publications"
+  all_pubs: "All publications"
+  curriculum: "Curriculum"
+  path: "Path"
+  news: "News"
+  older_news: "Older news"
+  contact: "Contact"
+  address: "Address"
+  email: "Email"
+  first_author: "First author"
+  status:
+    published: "Published"
+    preprint: "Preprint"
+    submitted: "Submitted"
+    thesis: "PhD thesis"
+  footer: "All rights reserved"
+fr:
+  tagline: "Chercheur postdoctoral en modélisation du climat polaire"
+  nav:
+    - { ref: research, label: "Recherche" }
+    - { ref: publications, label: "Publications" }
+    - { ref: outreach, label: "Médiation" }
+    - { ref: teaching, label: "Enseignement" }
+    - { ref: contact, label: "Contact" }
+  skip: "Aller au contenu"
+  menu: "Menu"
+  other_lang: "English version"
+  role: "Postdoc · LSCE–IPSL"
+  next: "À partir de nov. 2026 · SLF, Davos (Suisse)"
+  latest_pubs: "Dernières publications"
+  all_pubs: "Toutes les publications"
+  curriculum: "CV"
+  path: "Parcours"
+  news: "Actualités"
+  older_news: "Actualités plus anciennes"
+  contact: "Contact"
+  address: "Adresse"
+  email: "E-mail"
+  first_author: "Premier auteur"
+  status:
+    published: "Publié"
+    preprint: "Préprint"
+    submitted: "Soumis"
+    thesis: "Thèse"
+  footer: "Tous droits réservés"

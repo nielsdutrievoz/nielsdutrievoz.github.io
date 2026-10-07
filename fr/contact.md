@@ -1,41 +1,31 @@
 ---
-layout: default
-title: Niels Dutrievoz
+title: "Contact"
 description: "Chercheur postdoctoral en modélisation du climat polaire"
-lang: fr
+heading: "Contact"
+intro: "N'hésitez pas à m'écrire par e-mail ou via mes profils en ligne pour toute collaboration scientifique ou question."
 ref: contact
 ---
 
+<section class="panel" markdown="1">
+<div class="contact" markdown="1">
+<div markdown="1">
+<div class="lbl">E-mail</div>
+<a class="mail" href="mailto:niels.dutrievoz@proton.me">niels.dutrievoz@proton.me</a>
+</div>
+<div markdown="1">
+<div class="lbl">Adresse</div>
+<address>Laboratoire des Sciences du Climat et de l'Environnement (LSCE)<br>Équipe GLACCIOS<br>Orme des Merisiers, bâtiment 703, bureau 14<br>91191 Gif-sur-Yvette</address>
+</div>
+</div>
+</section>
 
-{% include nav.html %}
+<section class="panel" markdown="1">
+## Me retrouver en ligne
 
-# Contact
-
-📩 **E-mail**  
-niels.dutrievoz@proton.me
-
----
-
-### 📡 Me retrouver en ligne
-
-[![ORCID](https://img.shields.io/badge/ORCID-24C68B?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8133-5616)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niels-dutrievoz/)  
-[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nielsdutrievoz.bsky.social)
-
----
-
-### 🏢 Adresse professionnelle
-📍 Laboratoire des Sciences du Climat et de l'Environnement (LSCE)  
-🔬 Équipe de recherche GLACCIOS
-
-🏢 **Bureau :**
-- LSCE, Orme des Merisiers
-- 91191 Gif-sur-Yvette, France
-- Bâtiment 703, bureau 14
-
----
-
-### 📞 Me contacter
-N'hésitez pas à m'écrire par e-mail ou via mes réseaux pour toute collaboration scientifique ou question.
-
-{% include footer.html %}
+<div class="profile-links">
+  <a class="btn ghost" href="https://orcid.org/0000-0002-8133-5616" target="_blank" rel="noopener">ORCID</a>
+  <a class="btn ghost" href="https://scholar.google.com/citations?user=GvFHtIwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+  <a class="btn ghost" href="https://www.linkedin.com/in/niels-dutrievoz/" target="_blank" rel="noopener">LinkedIn</a>
+  <a class="btn ghost" href="https://bsky.app/profile/nielsdutrievoz.bsky.social" target="_blank" rel="noopener">Bluesky</a>
+</div>
+</section>

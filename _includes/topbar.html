@@ -1,0 +1,21 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.i18n[lang] %}
+{% if lang == "fr" %}{% assign prefix = "/fr/" %}{% assign other = "/" %}{% else %}{% assign prefix = "/" %}{% assign other = "/fr/" %}{% endif %}
+{% if page.ref == "home" or page.ref == nil %}{% assign switch = other %}{% else %}{% assign switch = other | append: page.ref %}{% endif %}
+<header class="topbar" id="topbar">
+  <a class="brand" href="{{ prefix }}">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M12 2v20M3.3 7l17.4 10M20.7 7 3.3 17M12 2l-2.5 2.5M12 2l2.5 2.5M12 22l-2.5-2.5M12 22l2.5-2.5"/></svg>
+    Niels Dutrievoz
+  </a>
+  <nav class="topnav" aria-label="Main">
+    <div class="links" id="navlinks">
+      {% for item in t.nav %}<a href="{{ prefix }}{{ item.ref }}"{% if page.ref == item.ref %} class="active" aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}
+    </div>
+    <a class="lang" href="{{ switch }}" hreflang="{% if lang == 'fr' %}en{% else %}fr{% endif %}" title="{{ t.other_lang }}">
+      <span{% if lang == "en" %} class="on"{% endif %}>EN</span><span{% if lang == "fr" %} class="on"{% endif %}>FR</span>
+    </a>
+    <button class="burger" id="burger" aria-label="{{ t.menu }}" aria-expanded="false" aria-controls="navlinks">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </nav>
+</header>

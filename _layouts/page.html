@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% assign lang = page.lang | default: "en" %}
+<header class="page-hero">
+  <div class="page-hero-inner">
+    {% if page.eyebrow %}<p class="eyebrow light">{{ page.eyebrow }}</p>{% endif %}
+    <h1>{{ page.heading | default: page.title }}</h1>
+    {% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+  </div>
+</header>
+<main id="content" class="wrap prose">
+{{ content }}
+</main>
