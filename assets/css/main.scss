@@ -260,3 +260,17 @@ details.older summary { cursor: pointer; color: var(--accent); font-family: var(
 /* Research facts: keyword column sized to its content, equal visual gaps */
 .facts.facts-kw { grid-template-columns: auto 1fr 1fr; column-gap: 48px; }
 @media (max-width: 760px) { .facts.facts-kw { grid-template-columns: 1fr; } }
+
+/* Click-to-enlarge photos */
+img.zoomable { cursor: zoom-in; transition: opacity .2s; }
+img.zoomable:hover { opacity: .92; }
+img.zoomable:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.zoom { position: fixed; inset: 0; z-index: 100; display: none; align-items: center; justify-content: center; padding: 4vh 4vw; background: rgba(8, 20, 33, .95); cursor: zoom-out; }
+.zoom.open { display: flex; animation: zoom-in .18s ease-out; }
+.zoom figure { margin: 0; text-align: center; max-width: 100%; }
+.zoom img { display: block; max-width: 92vw; max-height: 84vh; width: auto; height: auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 20px 60px rgba(0, 0, 0, .5); cursor: default; }
+.zoom figcaption { color: rgba(255, 255, 255, .85); font-size: .92rem; margin-top: 12px; }
+.zoom-close { position: absolute; top: 14px; right: 18px; width: 42px; height: 42px; border-radius: 50%; border: 1px solid rgba(255, 255, 255, .35); background: rgba(255, 255, 255, .1); color: #fff; font-size: 1.6rem; line-height: 1; cursor: pointer; }
+.zoom-close:hover { background: rgba(255, 255, 255, .22); }
+body.zoom-open { overflow: hidden; }
+@keyframes zoom-in { from { opacity: 0; } to { opacity: 1; } }
