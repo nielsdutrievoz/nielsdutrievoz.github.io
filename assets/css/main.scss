@@ -248,3 +248,15 @@ details.older summary { cursor: pointer; color: var(--accent); font-family: var(
 .prose ul.keywords { padding-left: 0; }
 .media-split.reverse { grid-template-columns: 140px 1fr; }
 @media (max-width: 700px) { .media-split.reverse { grid-template-columns: 1fr; } }
+
+/* Home: subtitle under the name */
+.hero .subtitle { font-family: var(--head); font-weight: 300; font-size: clamp(1.05rem, 1.6vw, 1.3rem); letter-spacing: -.01em; margin: -10px 0 18px; opacity: .92; }
+
+/* Home: About block stands out */
+.about-text { border-left: 4px solid var(--accent); background: linear-gradient(135deg, #ffffff 0%, #ffffff 55%, var(--accent-soft) 100%); }
+.about-text h2 { font-family: var(--head); font-weight: 300; font-size: 1.7rem; letter-spacing: -.02em; margin: 0 0 14px; color: var(--accent-dark); }
+.about-text p { font-size: 1.06rem; line-height: 1.7; }
+
+/* Research facts: keyword column sized to its content, equal visual gaps */
+.facts.facts-kw { grid-template-columns: auto 1fr 1fr; column-gap: 48px; }
+@media (max-width: 760px) { .facts.facts-kw { grid-template-columns: 1fr; } }

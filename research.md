@@ -7,7 +7,7 @@ ref: research
 ---
 
 <section class="panel" markdown="1">
-<div class="facts" markdown="1">
+<div class="facts facts-kw" markdown="1">
 <div markdown="1">
 ### Keywords
 <ul class="keywords"><li>Antarctica</li><li>Polar climate</li><li>Water isotopes</li><li>Blowing snow</li></ul>

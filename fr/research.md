@@ -8,7 +8,7 @@ ref: research
 ---
 
 <section class="panel" markdown="1">
-<div class="facts" markdown="1">
+<div class="facts facts-kw" markdown="1">
 <div markdown="1">
 ### Mots-clés
 <ul class="keywords"><li>Antarctique</li><li>Climat polaire</li><li>Isotopes de l'eau</li><li>Neige soufflée</li></ul>

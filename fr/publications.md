@@ -33,6 +33,7 @@ Toutes les sorties de modèle et tous les codes d'analyse de ma thèse sont arch
 <div class="facts" markdown="1">
 <div markdown="1">
 ### Conférences internationales
+- 2026 – Conférence IPICS 2026 (International Partnerships in Ice Core Sciences), Banff (oral)
 - 2025 – Assemblée générale de l'EGU, Vienne (oral)
 - 2024 – Assemblée générale de l'EGU, Vienne (poster)
 - 2023 – Assemblée générale de l'IUGG, Berlin (oral et poster)

@@ -32,6 +32,7 @@ All model outputs and analysis code from my PhD are openly archived on Zenodo.
 <div class="facts" markdown="1">
 <div markdown="1">
 ### International conferences
+- 2026 – IPICS 2026 conference (International Partnerships in Ice Core Sciences), Banff (oral)
 - 2025 – EGU General Assembly, Vienna (oral)
 - 2024 – EGU General Assembly, Vienna (poster)
 - 2023 – IUGG General Assembly, Berlin (oral and poster)

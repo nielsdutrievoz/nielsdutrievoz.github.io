@@ -13,6 +13,7 @@ layout: default
     </div>
     <div>
       <h1>Niels Dutrievoz</h1>
+      <p class="subtitle">{{ t.tagline }}</p>
       <p class="lead">{{ page.lead | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
       <a class="next" href="{{ prefix }}research"><i></i>{{ t.next }}</a>
     </div>
@@ -26,6 +27,15 @@ layout: default
     <a class="card" href="{{ prefix }}{{ c.ref }}"><span class="k">0{{ forloop.index }}</span><h3>{{ c.title }}</h3><p>{{ c.text }}</p></a>
     {% endfor %}
   </div>
+
+  {% if page.about %}
+  <section>
+    <div class="panel prose about-text">
+      <h2>{{ t.about }}</h2>
+      {{ page.about | markdownify }}
+    </div>
+  </section>
+  {% endif %}
 
   <section>
     <div class="panel">

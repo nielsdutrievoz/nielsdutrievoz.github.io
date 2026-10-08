@@ -3,7 +3,11 @@ layout: home
 title: "Chercheur postdoctoral en modélisation du climat polaire"
 description: "Chercheur postdoctoral en modélisation du climat polaire"
 ref: home
-lead: "Chercheur postdoctoral en modélisation du climat polaire au LSCE (Université Paris-Saclay), après une thèse sur les isotopes de la vapeur d'eau en Antarctique. J'étudie le **cycle atmosphérique de l'eau en Antarctique** à l'aide de modèles isotopiques et d'observations de terrain, de la surface de la neige jusqu'à la dynamique de grande échelle qui apporte l'humidité sur la calotte."
+lead: "J'étudie le cycle atmosphérique de l'eau en Antarctique à l'aide de modèles isotopiques et d'observations de terrain, de la surface de la neige jusqu'à la dynamique de grande échelle qui apporte l'humidité sur la calotte."
+about: |
+  Après une thèse au LSCE avec Cécile Agosta, je suis chercheur postdoctoral au LSCE avec Mathieu Casado, où j'étudie les échanges entre la neige et la vapeur pendant les rivières atmosphériques en Antarctique, et la façon dont ces événements extrêmes sont enregistrés dans les carottes de glace. À partir de novembre 2026, je rejoins le SLF à Davos pour modéliser le métamorphisme de la neige transportée par le vent et son empreinte isotopique sur la neige polaire. Je co-anime le groupe de travail sur les isotopes stables de l'eau de l'initiative Antarctica InSync, avec Sonja Wahl et Amy Macfarlane.
+
+  Partager la science au-delà du monde académique et **renforcer le dialogue entre science et société** sont tout aussi centraux dans mon travail. C'est dans cet esprit que j'ai co-organisé l'expédition **Antarctique 2.0°C** et cofondé la chaîne de vulgarisation **Ordres de grandeur** (plus de 100 000 abonnés), qui a donné naissance à notre livre *De la fourmi à la galaxie* (Vuibert, 2026).
 cards:
   - { ref: research, title: "Recherche", text: "Isotopes de l'eau, couche limite, rivières atmosphériques, neige soufflée." }
   - { ref: publications, title: "Publications", text: "Articles, préprints, thèse, données et code ouverts." }
@@ -21,6 +25,7 @@ address: "LSCE–IPSL<br>Orme des Merisiers, bâtiment 703<br>91191 Gif-sur-Yvet
 ## Actualités
 
 - **Novembre 2026** - Début d'un postdoc de deux ans à l'[Institut WSL pour l'étude de la neige et des avalanches SLF](https://www.slf.ch/fr/) (Davos, Suisse) avec Benjamin Walter, sur la modélisation du métamorphisme de la neige transportée par le vent et de son empreinte isotopique sur la neige polaire (projet financé par le Fonds national suisse).
+- **Octobre 2026** - Présentation orale à [IPICS 2026](https://www.ipics2026.org/about-ipics) (*International Partnerships in Ice Core Sciences*, Banff, Canada, 11-16 octobre), dans la session *Climate proxy interpretation* le 14 octobre : *Identifying atmospheric river signatures in Antarctic ice core records: a model–data approach*.
 - **Octobre 2026** - Notre livre [***De la fourmi à la galaxie***](/fr/outreach) (Vuibert), coécrit avec Baptiste Arnaud et Arthur Gublin d'*Ordres de grandeur*, est sorti !
 - **Avril 2026** - Nouvel article soumis à *JAMES* : [*Improving isotopic surface fluxes over snow in LMDZ6iso*](https://doi.org/10.22541/essoar.15002511/v1). Nous introduisons dans LMDZ6iso le fractionnement pendant la sublimation et une nouvelle formulation de la condensation en surface, ce qui améliore le cycle diurne simulé des isotopes de la vapeur à Concordia.
 - **Février 2026** - Mon deuxième article en premier auteur est publié dans [*The Cryosphere*](https://doi.org/10.5194/tc-20-1025-2026) : *Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica*.
