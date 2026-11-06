@@ -31,7 +31,7 @@ ref: research
 <section class="panel" markdown="1">
 ## Overview
 
-My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. During my PhD, I used the [**LMDZ6iso global atmospheric model**](https://lmdz.lmd.jussieu.fr/) to simulate isotope dynamics; from November 2026, I will work with the regional model **CRYOWRF** at SLF.
+My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. During my PhD, I used the [**LMDZ6iso global atmospheric model**](https://lmdz.lmd.jussieu.fr/) to simulate isotope dynamics; at SLF, I now work with the regional model **CRYOWRF**.
 
 In Antarctica, the study of water isotopes in surface snow, precipitation, and vapour is conducted with a dual objective: **gaining a deeper understanding of isotopic signals archived in ice cores**, and **deciphering the contributions of different atmospheric processes in driving the water cycle, including boundary layer processes.**
 
@@ -44,12 +44,12 @@ In Antarctica, the study of water isotopes in surface snow, precipitation, and v
 </section>
 
 <section class="panel" markdown="1">
-<p class="eyebrow">Upcoming · SLF, from November 2026</p>
+<p class="eyebrow">Current · SLF, since November 2026</p>
 ## Airborne snow metamorphism and polar snow isotopes
 
-From November 2026, I will join the **Snow Physics group** of the [WSL Institute for Snow and Avalanche Research SLF](https://www.slf.ch/en/) in Davos for a two-year postdoc with Benjamin Walter, within a project funded by the **Swiss National Science Foundation (SNSF)**.
+Since November 2026, I have been working in the **Snow Physics group** of the [WSL Institute for Snow and Avalanche Research SLF](https://www.slf.ch/en/) in Davos, on a two-year postdoc with Benjamin Walter, within a project funded by the **Swiss National Science Foundation (SNSF)**.
 
-The project investigates the newly discovered process of **airborne snow metamorphism (ASM)**: the transformation of snow particles during wind-driven transport, and its impact on the **physical properties and isotopic composition of polar snow**. My work will consist in:
+The project investigates the newly discovered process of **airborne snow metamorphism (ASM)**: the transformation of snow particles during wind-driven transport, and its impact on the **physical properties and isotopic composition of polar snow**. My work consists of:
 - developing **new model equations** for the evolution of snow microstructure and isotope signals during wind-driven snow transport, parameterized from **laboratory and Antarctic field data**;
 - implementing them in the coupled atmosphere–snow model **CRYOWRF**;
 - quantifying the impact of ASM on the **isotopic composition, energy and mass balance of polar regions**.
@@ -58,10 +58,10 @@ This work directly extends my PhD results, which suggested that **airborne subli
 </section>
 
 <section class="panel" markdown="1">
-<p class="eyebrow">Current · LSCE, 2026</p>
+<p class="eyebrow">Previous · LSCE, January–October 2026</p>
 ## Atmospheric rivers, snow–vapour interactions and ice-core archives
 
-Since January 2026, as a postdoctoral researcher at LSCE with [Mathieu Casado](https://mathieucasado.com/), I study **snow–vapour interactions during the March 2022 Antarctic atmospheric river**, and whether such **extreme events are archived in ice**. To do so, I combine the LMDZ model, a **proxy-system model** and **high-resolution East Antarctic ice cores**.
+As a postdoctoral researcher at LSCE with [Mathieu Casado](https://mathieucasado.com/), I studied **snow–vapour interactions during the March 2022 Antarctic atmospheric river**, and whether such **extreme events are archived in ice**. To do so, I combined the LMDZ model, a **proxy-system model** and **high-resolution East Antarctic ice cores**.
 </section>
 
 <section class="panel" markdown="1">

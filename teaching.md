@@ -1,8 +1,8 @@
 ---
 title: "Teaching"
 heading: "Teaching"
-eyebrow: "ENSTA Paris · since 2023"
-intro: "Since 2023, I have been a teaching assistant at ENSTA Paris, guiding students on climate science and systemic analysis of the Anthropocene."
+eyebrow: "ENSTA Paris · 2023–2025"
+intro: "From 2023 to 2025, I was a teaching assistant at ENSTA Paris, guiding students on climate science and systemic analysis of the Anthropocene."
 ref: teaching
 ---
 

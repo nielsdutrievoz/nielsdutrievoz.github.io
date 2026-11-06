@@ -2,8 +2,8 @@
 title: "Enseignement"
 description: "Chercheur postdoctoral en modélisation du climat polaire"
 heading: "Enseignement"
-eyebrow: "ENSTA Paris · depuis 2023"
-intro: "Depuis 2023, j'encadre des travaux dirigés à l'ENSTA Paris, où j'accompagne les étudiants en sciences du climat et en analyse systémique de l'Anthropocène."
+eyebrow: "ENSTA Paris · 2023–2025"
+intro: "De 2023 à 2025, j'ai encadré des travaux dirigés à l'ENSTA Paris, où j'ai accompagné les étudiants en sciences du climat et en analyse systémique de l'Anthropocène."
 ref: teaching
 ---
 

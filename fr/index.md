@@ -5,21 +5,21 @@ description: "Chercheur postdoctoral en modélisation du climat polaire"
 ref: home
 lead: "J'étudie le cycle atmosphérique de l'eau en Antarctique à l'aide de modèles isotopiques et d'observations de terrain, de la surface de la neige jusqu'à la dynamique de grande échelle qui apporte l'humidité sur la calotte."
 about: |
-  Après une thèse au LSCE avec Cécile Agosta, je suis chercheur postdoctoral au LSCE avec Mathieu Casado, où j'étudie les échanges entre la neige et la vapeur pendant les rivières atmosphériques en Antarctique, et la façon dont ces événements extrêmes sont enregistrés dans les carottes de glace. À partir de novembre 2026, je rejoins le SLF à Davos pour modéliser le métamorphisme de la neige transportée par le vent et son empreinte isotopique sur la neige polaire. Je co-anime le groupe de travail sur les isotopes stables de l'eau de l'initiative Antarctica InSync, avec Sonja Wahl et Amy Macfarlane.
+  Je suis chercheur postdoctoral au SLF à Davos avec Benjamin Walter, où je modélise le métamorphisme de la neige transportée par le vent et son empreinte isotopique sur la neige polaire. Auparavant, j'ai réalisé une thèse au LSCE avec Cécile Agosta, puis un postdoc avec Mathieu Casado sur les échanges entre la neige et la vapeur pendant les rivières atmosphériques en Antarctique, et la façon dont ces événements extrêmes sont enregistrés dans les carottes de glace. Je co-anime le groupe de travail sur les isotopes stables de l'eau de l'initiative Antarctica InSync, avec Sonja Wahl et Amy Macfarlane.
 
   Partager la science au-delà du monde académique et **renforcer le dialogue entre science et société** sont tout aussi centraux dans mon travail. C'est dans cet esprit que j'ai co-organisé l'expédition **Antarctique 2.0°C** et cofondé la chaîne de vulgarisation **Ordres de grandeur** (plus de 100 000 abonnés), qui a donné naissance à notre livre *De la fourmi à la galaxie* (Vuibert, 2026).
 cards:
   - { ref: research, title: "Recherche", text: "Isotopes de l'eau, couche limite, rivières atmosphériques, neige soufflée." }
   - { ref: publications, title: "Publications", text: "Articles, préprints, thèse, données et code ouverts." }
   - { ref: outreach, title: "Médiation", text: "Ordres de grandeur, un livre, une expédition en Antarctique." }
-  - { ref: teaching, title: "Enseignement", text: "Physique du climat et Anthropocène à l'ENSTA Paris." }
+  - { ref: teaching, title: "Enseignement", text: "Physique du climat et Anthropocène à l'ENSTA Paris (2023–2025)." }
 book:
   eyebrow: "Nouveau livre · Vuibert, octobre 2026"
   text: "100 questions pour comprendre la vie, la Terre, l'infini et au-delà, écrit avec Baptiste Arnaud et Arthur Gublin, l'équipe de la chaîne de vulgarisation *Ordres de grandeur* (plus de 100 000 abonnés et 26 millions de vues)."
   order: "Commander le livre"
   more: "Médiation"
 cv_label: "Télécharger mon CV (PDF, en anglais)"
-address: "LSCE–IPSL<br>Orme des Merisiers, bâtiment 703<br>91191 Gif-sur-Yvette"
+address: "Institut WSL pour l'étude de la neige et des avalanches SLF<br>Flüelastrasse 11<br>7260 Davos Dorf, Suisse"
 ---
 
 ## Actualités

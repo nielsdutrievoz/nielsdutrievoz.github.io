@@ -32,7 +32,7 @@ ref: research
 <section class="panel" markdown="1">
 ## Vue d'ensemble
 
-Mes recherches portent sur le **cycle atmosphérique de l'eau en Antarctique**, en particulier à travers les **isotopes de l'eau**. Pendant ma thèse, j'ai utilisé le [**modèle atmosphérique global LMDZ6iso**](https://lmdz.lmd.jussieu.fr/) pour simuler la dynamique des isotopes ; à partir de novembre 2026, je travaillerai avec le modèle régional **CRYOWRF** au SLF.
+Mes recherches portent sur le **cycle atmosphérique de l'eau en Antarctique**, en particulier à travers les **isotopes de l'eau**. Pendant ma thèse, j'ai utilisé le [**modèle atmosphérique global LMDZ6iso**](https://lmdz.lmd.jussieu.fr/) pour simuler la dynamique des isotopes ; au SLF, je travaille désormais avec le modèle régional **CRYOWRF**.
 
 En Antarctique, l'étude des isotopes de l'eau dans la neige de surface, les précipitations et la vapeur poursuit un double objectif : **mieux comprendre les signaux isotopiques enregistrés dans les carottes de glace**, et **démêler la contribution des différents processus atmosphériques au cycle de l'eau, y compris ceux de la couche limite.**
 
@@ -45,12 +45,12 @@ Les **modèles de circulation générale atmosphérique (MCGA) équipés des iso
 </section>
 
 <section class="panel" markdown="1">
-<p class="eyebrow">Prochainement · SLF, à partir de novembre 2026</p>
+<p class="eyebrow">Actuellement · SLF, depuis novembre 2026</p>
 ## Métamorphisme de la neige soufflée et isotopes de la neige polaire
 
-À partir de novembre 2026, je rejoins le **groupe de physique de la neige** de l'[Institut WSL pour l'étude de la neige et des avalanches SLF](https://www.slf.ch/fr/) à Davos pour un postdoc de deux ans avec Benjamin Walter, dans le cadre d'un projet financé par le **Fonds national suisse (FNS)**.
+Depuis novembre 2026, je travaille dans le **groupe de physique de la neige** de l'[Institut WSL pour l'étude de la neige et des avalanches SLF](https://www.slf.ch/fr/) à Davos, pour un postdoc de deux ans avec Benjamin Walter, dans le cadre d'un projet financé par le **Fonds national suisse (FNS)**.
 
-Le projet étudie un processus récemment découvert, le **métamorphisme de la neige pendant son transport par le vent** (*airborne snow metamorphism*, ASM) : la transformation des grains de neige lorsqu'ils sont soufflés par le vent, et son effet sur les **propriétés physiques et la composition isotopique de la neige polaire**. Mon travail consistera à :
+Le projet étudie un processus récemment découvert, le **métamorphisme de la neige pendant son transport par le vent** (*airborne snow metamorphism*, ASM) : la transformation des grains de neige lorsqu'ils sont soufflés par le vent, et son effet sur les **propriétés physiques et la composition isotopique de la neige polaire**. Mon travail consiste à :
 - développer de **nouvelles équations** décrivant l'évolution de la microstructure de la neige et des signaux isotopiques pendant le transport par le vent, paramétrées à partir de **données de laboratoire et de terrain en Antarctique** ;
 - les implémenter dans le modèle couplé atmosphère–neige **CRYOWRF** ;
 - quantifier l'effet de l'ASM sur la **composition isotopique et les bilans d'énergie et de masse des régions polaires**.
@@ -59,10 +59,10 @@ Ce travail prolonge directement les résultats de ma thèse, qui suggéraient qu
 </section>
 
 <section class="panel" markdown="1">
-<p class="eyebrow">Actuellement · LSCE, 2026</p>
+<p class="eyebrow">Précédemment · LSCE, janvier–octobre 2026</p>
 ## Rivières atmosphériques, échanges neige–vapeur et archives glaciaires
 
-Depuis janvier 2026, en postdoc au LSCE avec [Mathieu Casado](https://mathieucasado.com/), j'étudie les **échanges entre la neige et la vapeur pendant la rivière atmosphérique de mars 2022 en Antarctique**, et je cherche à savoir si de tels **événements extrêmes sont enregistrés dans la glace**. Pour cela, je combine le modèle LMDZ, un **modèle de système proxy** et des **carottes de glace à haute résolution d'Antarctique de l'Est**.
+En postdoc au LSCE avec [Mathieu Casado](https://mathieucasado.com/), j'ai étudié les **échanges entre la neige et la vapeur pendant la rivière atmosphérique de mars 2022 en Antarctique**, et j'ai cherché à savoir si de tels **événements extrêmes sont enregistrés dans la glace**. Pour cela, j'ai combiné le modèle LMDZ, un **modèle de système proxy** et des **carottes de glace à haute résolution d'Antarctique de l'Est**.
 </section>
 
 <section class="panel" markdown="1">

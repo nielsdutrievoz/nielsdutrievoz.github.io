@@ -4,26 +4,26 @@ title: "Niels Dutrievoz"
 ref: home
 lead: "I study the atmospheric water cycle in Antarctica with isotope-enabled models and field observations, from the snow surface to the large-scale dynamics that bring moisture to the ice sheet."
 about: |
-  After a PhD at LSCE with Cécile Agosta, I am a postdoctoral researcher at LSCE with Mathieu Casado, studying snow–vapour interactions during Antarctic atmospheric rivers and how extreme events are archived in ice cores. From November 2026, I will join SLF in Davos to model airborne snow metamorphism and its isotopic imprint on polar snow. I co-lead the water stable isotope working group of Antarctica InSync with Sonja Wahl and Amy Macfarlane.
+  I am a postdoctoral researcher at SLF in Davos with Benjamin Walter, where I model airborne snow metamorphism and its isotopic imprint on polar snow. I previously completed a PhD at LSCE with Cécile Agosta, followed by a postdoc with Mathieu Casado on snow–vapour interactions during Antarctic atmospheric rivers and how extreme events are archived in ice cores. I co-lead the water stable isotope working group of Antarctica InSync with Sonja Wahl and Amy Macfarlane.
 
   Sharing science beyond academia and **strengthening the dialogue between science and society** are just as central to my work. This is why I co-organised the **Antarctica 2.0°C** expedition and co-created the science channel **Ordres de grandeur** (100,000+ followers), which led to our book *De la fourmi à la galaxie* (Vuibert, 2026).
 cards:
   - { ref: research, title: "Research", text: "Water isotopes, boundary layer, atmospheric rivers, blowing snow." }
   - { ref: publications, title: "Publications", text: "Articles, preprints, PhD thesis, open data & code." }
   - { ref: outreach, title: "Outreach", text: "Ordres de grandeur, a book, an expedition to Antarctica." }
-  - { ref: teaching, title: "Teaching", text: "Climate physics and the Anthropocene at ENSTA Paris." }
+  - { ref: teaching, title: "Teaching", text: "Climate physics and the Anthropocene at ENSTA Paris (2023–2025)." }
 book:
   eyebrow: "New book · Vuibert, October 2026"
   text: "100 questions to understand life, the Earth, infinity and beyond - written with Baptiste Arnaud and Arthur Gublin, the team behind the science channel *Ordres de grandeur* (100k+ followers, 26M+ views)."
   order: "Order the book"
   more: "Outreach"
 cv_label: "Download my CV (PDF)"
-address: "LSCE–IPSL<br>Orme des Merisiers, Building 703<br>91191 Gif-sur-Yvette, France"
+address: "WSL Institute for Snow and Avalanche Research SLF<br>Flüelastrasse 11<br>7260 Davos Dorf, Switzerland"
 ---
 
 ## News
 
-- **November 2026** - Starting a two-year postdoc at the [WSL Institute for Snow and Avalanche Research SLF](https://www.slf.ch/en/) (Davos, Switzerland) with Benjamin Walter, on the modelling of airborne snow metamorphism and its isotopic imprint on polar snow (SNSF-funded project).
+- **November 2026** - Started a two-year postdoc at the [WSL Institute for Snow and Avalanche Research SLF](https://www.slf.ch/en/) (Davos, Switzerland) with Benjamin Walter, on the modelling of airborne snow metamorphism and its isotopic imprint on polar snow (SNSF-funded project).
 - **October 2026** - Oral presentation at [IPICS 2026](https://www.ipics2026.org/about-ipics) (International Partnerships in Ice Core Sciences, Banff, Canada, October 11-16), in the session *Climate proxy interpretation* on October 14: *Identifying atmospheric river signatures in Antarctic ice core records: a model–data approach*.
 - **October 2026** - Our book [***De la fourmi à la galaxie***](/outreach) (Vuibert), co-written with Baptiste Arnaud and Arthur Gublin from *Ordres de grandeur*, is out!
 - **April 2026** - New paper submitted to *JAMES*: [*Improving isotopic surface fluxes over snow in LMDZ6iso*](https://doi.org/10.22541/essoar.15002511/v1). We implement fractionation during sublimation and a new formulation of surface condensation in LMDZ6iso, which improves the simulated diurnal cycle of vapour isotopes at Concordia.

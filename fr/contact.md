@@ -14,7 +14,7 @@ ref: contact
 </div>
 <div markdown="1">
 <div class="lbl">Adresse</div>
-<address>Laboratoire des Sciences du Climat et de l'Environnement (LSCE)<br>Équipe GLACCIOS<br>Orme des Merisiers, bâtiment 703, bureau 14<br>91191 Gif-sur-Yvette</address>
+<address>Institut WSL pour l'étude de la neige et des avalanches SLF<br>Groupe de physique de la neige<br>Flüelastrasse 11<br>7260 Davos Dorf, Suisse</address>
 </div>
 </div>
 </section>
